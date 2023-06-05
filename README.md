@@ -3,4 +3,4 @@
 ### [Clique aqui para ir ao site do Furbot](https://furbotldtt.wixsite.com/my-site-1)  
 ### [Clique aqui para ir ao site do LDTT](http://ldttweb.furb.br/ldtt/)  
 
-![Alt text](orgranograma.drawio.svg)
+![Alt text](organograma.drawio.svg)
