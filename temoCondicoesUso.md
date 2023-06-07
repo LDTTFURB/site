@@ -1,6 +1,6 @@
 # Termos e condições de uso
 
-Última atualização: 01 de junho de 2023
+Última atualização: 01 de junho de 2023  
 
 <!--
 Peguei de:
@@ -13,16 +13,16 @@ Exemplos:
 <https://play.google.com/store/apps/details?id=appinventor.ai_renanheidemann_rh.FURBTV2>  
 -->
 
-Este Contrato de Licença de Usuário Final (End User License Agreement – EULA) é um acordo legal para uso da plataforma Furbot-Servidor e dos aplicativos Furbot e Furbot-Minigames pelo prazo em que utilizá-las, entre o usuário pessoa física (USUÁRIO) e o Laboratório de Transferência de Tecnologia (LDTT), estabelecido nesta cidade de Blumenau – SC, na Rua Antônio da Veiga, nº. 3366, sala S-223, bairro Itoupava Seca. A plataforma Furbot inclui dois aplicativos, sistemas de retaguarda, sites e qualquer serviço prestado pelo LDTT , a qual é detentora da marca Furbot e dos direitos autorais da plataforma Furbot.
+Este Contrato de Licença de Usuário Final (End User License Agreement – EULA) é um acordo legal para uso da plataforma Furbot-Servidor e dos aplicativos Furbot e Furbot-Minigames pelo prazo em que utilizá-las, entre o usuário pessoa física (USUÁRIO) e o Laboratório de Transferência de Tecnologia (LDTT), estabelecido nesta cidade de Blumenau – SC, na Rua Antônio da Veiga, nº. 3366, sala S-223, bairro Itoupava Seca. A plataforma Furbot inclui dois aplicativos, sistemas de retaguarda, sites e qualquer serviço prestado pelo LDTT , a qual é detentora da marca Furbot e dos direitos autorais da plataforma Furbot.  
 
-A utilização de todo e qualquer serviço prestado pelo LDTT está condicionada ao aceite deste EULA na sua totalidade. A utilização deve ser imediatamente interrompida caso o USUÁRIO não concorde com qualquer um dos termos.
+A utilização de todo e qualquer serviço prestado pelo LDTT está condicionada ao aceite deste EULA na sua totalidade. A utilização deve ser imediatamente interrompida caso o USUÁRIO não concorde com qualquer um dos termos.  
 
+## 1. Declaração de Vontade
 
-1. Declaração de Vontade
-a) O USUÁRIO declara ter lido, compreendido e aceito integralmente todos os termos e condições deste EULA, e declara, ainda, ter ciência dos direitos e obrigações nele contido, constituindo este instrumento o acordo completo entre as partes;
-b) As regras estabelecidas no presente documento foram elaboradas visando zelar pela confidencialidade e segurança dos dados inseridos pelo USUARIO no FORMFEED as quais poderão ser atualizados ou alterados pela MRD a qualquer momento, sendo o usuário informado destas alterações;
-c) Ao aceitar estes termos e condições de uso das plataformas FORMFEED e GO4, e do APPFORMFEED, o USUÁRIO reconhece e concorda que todo o conteúdo apresentado na plataforma está protegido por direitos autorais, marcas, patentes ou outros direitos e leis de propriedade industrial e é propriedade exclusiva da MRD;
-d) Ao enviar para terceiros através da plataforma GO4 quaisquer conteúdos armazenados no APPFORMFEED, o USUÁRIO retém a titularidade de seus direitos sobre dito conteúdo, cedendo à MRD uma licença de caráter gratuito, irrevogável, mundial e não exclusivo para o transporte e acondicionamento temporário e criptografado pelo USUÁRIO do conteúdo na infraestrutura da MRD. Tão logo o conteúdo armazenado temporariamente na plataforma FORMFEED tenha sido consumido pela parte receptora, o conteúdo é automaticamente removido não sofrendo qualquer tipo de análise de conteúdo por parte da MRD.
+a) O USUÁRIO declara ter lido, compreendido e aceito integralmente todos os termos e condições deste EULA, e declara, ainda, ter ciência dos direitos e obrigações nele contido, constituindo este instrumento o acordo completo entre as partes;  
+b) As regras estabelecidas no presente documento foram elaboradas visando zelar pela confidencialidade e segurança dos dados inseridos pelo USUARIO no Furbot as quais poderão ser atualizados ou alterados pelo LDTT a qualquer momento, sendo o usuário informado destas alterações;  
+c) Ao aceitar estes termos e condições de uso das plataforma Furbot, e dos aplicativos Furbot e Furbot-Minigames, o USUÁRIO reconhece e concorda que todo o conteúdo apresentado na plataforma está protegido por direitos autorais, marcas, patentes ou outros direitos e leis de propriedade industrial e é propriedade exclusiva do LDTT;  
+d) Ao enviar para terceiros através da plataforma Furbot quaisquer conteúdos armazenados no aplicativo Furbot, o USUÁRIO retém a titularidade de seus direitos sobre dito conteúdo, cedendo ao LDTT uma licença de caráter gratuito, irrevogável, mundial e não exclusivo para o transporte e acondicionamento temporário e criptografado pelo USUÁRIO do conteúdo na infraestrutura do LDTT. Tão logo o conteúdo armazenado temporariamente na plataforma Furbot tenha sido consumido pela parte receptora, o conteúdo é automaticamente removido não sofrendo qualquer tipo de análise de conteúdo por parte da MRD.
 
 1. Licença de uso do Formfeed
 a) A MRD, que é proprietária e legítima possuidora de todos os direitos sobre o APPFORMFEED e plataformas FORMFEED e GO4, cede, enquanto viger este EULA, ao USUÁRIO o direito de uso não exclusivo, intransferível a terceiros, sob qualquer forma ou condição;
