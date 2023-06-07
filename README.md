@@ -6,4 +6,4 @@
 
 **[Clique aqui para ir ao site do LDTT](http://ldttweb.furb.br/ldtt/)**
 
-<!-- ![Alt text](organograma.drawio.svg) -->
+![Alt text](organograma.drawio.svg)
