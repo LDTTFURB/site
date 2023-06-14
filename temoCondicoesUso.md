@@ -13,7 +13,7 @@ Exemplos:
 <https://play.google.com/store/apps/details?id=appinventor.ai_renanheidemann_rh.FURBTV2>  
 -->
 
-Este Contrato de Licença de Usuário Final (End User License Agreement – EULA) é um acordo legal para uso da plataforma Furbot-Servidor e dos aplicativos Furbot e Furbot-Minigames pelo prazo em que utilizá-las, entre o usuário pessoa física (USUÁRIO) e o Laboratório de Transferência de Tecnologia (LDTT), estabelecido nesta cidade de Blumenau – SC, na Rua Antônio da Veiga, nº. 3366, sala S-223, bairro Itoupava Seca. A plataforma Furbot inclui dois aplicativos, sistemas de retaguarda, sites e qualquer serviço prestado pelo LDTT , a qual é detentora da marca Furbot e dos direitos autorais da plataforma Furbot.  
+Este Contrato de Licença de Usuário Final (End User License Agreement – EULA) é um acordo legal para uso da plataforma Furbot-Servidor e dos aplicativos Furbot e Furbot_Minigames (Furbot - Zona de Jogos) pelo prazo em que utilizá-las, entre o usuário pessoa física (USUÁRIO) e o Laboratório de Transferência de Tecnologia (LDTT), estabelecido nesta cidade de Blumenau – SC, na Rua Antônio da Veiga, nº. 3366, sala S-223, bairro Itoupava Seca. A plataforma Furbot inclui dois aplicativos, sistemas de retaguarda, sites e qualquer serviço prestado pelo LDTT, a qual é detentora da marca Furbot e dos direitos autorais da plataforma Furbot.  
 
 A utilização de todo e qualquer serviço prestado pelo LDTT está condicionada ao aceite deste EULA na sua totalidade. A utilização deve ser imediatamente interrompida caso o USUÁRIO não concorde com qualquer um dos termos.  
 
