@@ -1,9 +1,13 @@
-# Home
+# LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia
 
-**Este repo é dedicado à única e exclusivamente ser o ponto de entrada, e contêm informações úteis sobre funcionamento do GitHub, MarkDown, e utilitários em geral. Para acessar o conteúdo [entre na Wiki](../../wiki/Home)**
+## [Wiki](../../wiki/Home)  
 
-**[Clique aqui para ir ao site do Furbot](https://furbotldtt.wixsite.com/my-site-1)**
+## [Equipes](equipes)  
 
-**[Clique aqui para ir ao site do LDTT](http://ldttweb.furb.br/ldtt/)**
+## [LDTT](http://ldttweb.furb.br/ldtt/)  
+
+## [Furbot](https://furbotldtt.wixsite.com/my-site-1)  
+
+## Organograma
 
 ![Alt text](organograma.drawio.svg)
