@@ -2,7 +2,7 @@
 
 ## 2023-07-20 - Tímbo
 
-[TGapete Furbot](2023-07-14_Timbo.mov)  
+[Tapete Furbot](2023-07-14_Timbo.mov)  
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
