@@ -41,3 +41,7 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 ## 2023-10-04 - MIPE
 
 [2023-10-04_MIPE](2023-10-04_MIPE.pdf "2023-10-04_MIPE")  
+
+## 2023-10-16 - 13:46
+
+<video src="2023-10-16_LDTT_institucional.mp4" controls title="2023-10-16_LDTT_institucional.mp4"></video>  
