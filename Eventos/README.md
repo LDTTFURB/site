@@ -8,7 +8,7 @@
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
-![image](./Documentos/2023-07-20_evento.jpeg = 100)  
+![image](./Documentos/2023-07-20_evento.jpeg)  
 
 [Video](./Documentos/2023-07-20_Video.mp4) FURBOT
 
@@ -34,8 +34,9 @@
 
 ## 2023-08-25 - FFM
 
-![image](./Documentos/2023-08-25_FFM.png)  
-
+<div align="center">
+    ![image](./Documentos/2023-08-25_FFM.png)  
+</div>
 ---
 
 ## 2023-09-26 - OdtGame
