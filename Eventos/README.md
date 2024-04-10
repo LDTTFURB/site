@@ -8,13 +8,13 @@
 
 ![Evento](./Documentos/2023-07-20_evento.jpeg)  
 
-<video src="./Documentos/2023-07-20_Video.mp4" controls title="./Documentos/2023-07-20_Video.mp4"></video>  
+<video src="./Documentos/2023-07-20_Video.mp4" controls title="Video"></video>  
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-<video src="./Documentos/2023-07-20_Instagram.mp4" controls title="./Documentos/2023-07-20_Instagram.mp4"></video>  
+<video src="./Documentos/2023-07-20_Instagram.mp4" controls title="Instagram"></video>  
 
-<video src="./Documentos/2023-07-20_NDTV.mp4" controls title="./Documentos/2023-07-20_NDTV.mp4"></video>  
+<video src="./Documentos/2023-07-20_NDTV.mp4" controls title="NDTV."></video>  
 
 ----
 
@@ -44,4 +44,4 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-16 - 13:46
 
-<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="./Documentos/2023-10-16_LDTT_institucional.mp4"></video>  
+<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="LDTT_institucional"></video>  
