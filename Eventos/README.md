@@ -34,9 +34,8 @@
 
 ## 2023-08-25 - FFM
 
-<div align="center">
-    ![image](./Documentos/2023-08-25_FFM.png)  
-</div>
+![image](./Documentos/2023-08-25_FFM.png)  
+
 ---
 
 ## 2023-09-26 - OdtGame
