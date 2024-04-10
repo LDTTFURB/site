@@ -28,7 +28,7 @@
 
 ## 2023-08-19 - CRAS
 
-[Imagens / Vídeos](./CRAS%202023-08-19/ "2023-08-19_CRAS") evento CRAS  
+[Imagens / Vídeos](./2023-08-19_CRAS/ "2023-08-19_CRAS") evento CRAS  
 
 ---
 
