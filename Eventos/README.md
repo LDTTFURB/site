@@ -12,13 +12,13 @@
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-[video](./Documentos/2023-07-20_Instagram.mp4)
+![video](./Documentos/2023-07-20_Instagram.mp4)
 
 [Reportagem NDTV](./Documentos/2023-07-20_NDTV.mp4)
 
 ## 2023-08-11 - Robô
 
-![image](./Documentos/2023-08-11_Robo.mp4)
+[Vídeo](./Documentos/2023-08-11_Robo.mp4) Robô
 
 ## 2023-08-19 - CRAS
 
@@ -33,7 +33,9 @@
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
 ![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)  
+
 [Video](./Documentos/2023-09-26_OdtGame_b.mp4) OdtGame 01
+
 [Video](./Documentos/2023-09-26_OdtGame_c.mp4) OdtGame 02
 
 ## 2023-10-04 - MIPE
