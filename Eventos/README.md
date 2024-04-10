@@ -8,13 +8,13 @@
 
 ![image](./Documentos/2023-07-20_evento.jpeg)  
 
-[Video FURBOT](./Documentos/2023-07-20_Video.mp4)
+[Video](./Documentos/2023-07-20_Video.mp4) FURBOT
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
 [Vídeo](./Documentos/2023-07-20_Instagram.mp4) publicado no Instagram
 
-[Reportagem NDTV](./Documentos/2023-07-20_NDTV.mp4)
+[Reportagem](./Documentos/2023-07-20_NDTV.mp4) NDTV
 
 ## 2023-08-11 - Robô
 
@@ -40,7 +40,7 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-04 - MIPE
 
-[2023-10-04_MIPE](./Documentos/2023-10-04_MIPE.pdf "2023-10-04_MIPE")  
+[Documentos](./Documentos/2023-10-04_MIPE.pdf "2023-10-04_MIPE") pdf 17° Mipe
 
 ## 2023-10-16 - 13:46
 
