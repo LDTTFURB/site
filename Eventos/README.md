@@ -12,7 +12,7 @@
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-![video](./Documentos/2023-07-20_Instagram.mp4)
+[Vídeo](./Documentos/2023-07-20_Instagram.mp4) publicado no Instagram
 
 [Reportagem NDTV](./Documentos/2023-07-20_NDTV.mp4)
 
