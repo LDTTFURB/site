@@ -1,6 +1,6 @@
 # Materiais do LDTT
 
-## 2023-07-20 - Tímbo
+## 2023-07-20 - Timbó
 
 [Tapete Furbot](./Documentos/2023-07-14_Timbo.mp4)  
 
@@ -12,15 +12,15 @@
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-<video src="2023-07-20_Instagram.mp4" controls title="2023-07-20_Instagram"></video>  
+<video src="./Documentos/2023-07-20_Instagram.mp4" controls title="./Documentos/2023-07-20_Instagram.mp4"></video>  
 
-<video src="2023-07-20_NDTV.mp4" controls title="2023-07-20_NDTV"></video>  
+<video src="./Documentos/2023-07-20_NDTV.mp4" controls title="./Documentos/2023-07-20_NDTV.mp4"></video>  
 
 ----
 
 ## 2023-08-11 - Robô
 
-<video src="./Documentos/2023-08-11_Robo.mp4" controls title="2023-08-11_Robo"></video>  
+<video src="./Documentos/2023-08-11_Robo.mp4" controls title="./Documentos/2023-08-11_Robo.mp4"></video>  
 
 ## 2023-08-19 - CRAS
 
@@ -44,4 +44,4 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-16 - 13:46
 
-<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="2023-10-16_LDTT_institucional.mp4"></video>  
+<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="./Documentos/2023-10-16_LDTT_institucional.mp4"></video>  
