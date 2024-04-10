@@ -1,6 +1,6 @@
 # DrawIO - Diagramas e Desenhos
 
-E também usamos diagramas e desenhos feitos no Draw.io. O Draw.io tem uma versão online e que pode ser instalada no PC.  
+Usamos diagramas e desenhos feitos no Draw.io. O Draw.io tem uma versão online e que pode ser instalada no PC.  
 Ver comentário para online: <https://github.com/dalton-reis/disciplinaIpPrivado/blob/master/Unidade1/aulaAnotacoes.md#rabiscos>  
 Eu uso uma outra extensão do VSCode: <https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio> que me permite editar o Draw.io direto dentro do VSCode.  
 
