@@ -23,4 +23,4 @@
 
 ## MATERIAIS DE LEITURA
 
-- ![link](https://tryevidence.com/blog/how-to-design-a-perfect-game-tutorial/)
+- https://tryevidence.com/blog/how-to-design-a-perfect-game-tutorial/

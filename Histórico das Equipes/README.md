@@ -3,28 +3,28 @@
 ## 2024-1
 
 Andreza Sartori  
-Ayumi Takehara Lewandowski 
-Bernardo Chiamolera
-Bruno Fischer Ferreira Santos
-Dalton Solano dos Reis
-Emanuel Girardi
-Gabriel Jorge Utyama de Carvalho
-Guilherme Ricardo Bez Junior
-João Gabriel Soares Lavina
-João Paulo de Lima
-Kayla Gianotti Dias Macedo
-Larissa Zózimo Antunes
-Leonardo Linhares Silva
-Letícia Fruet
-Lucas Hong Lae Son
-Luciana Pereira de Araújo Kohler
-Luís Felipe de Castilho
-Luiz Henrique Martendal
-Maria Fernanda Zimmermann
-Maurício Capobianco Lopes
-Miguel Alexandre Wisintainer
-Nando Matheus Rocha
-Vinícius Estrázulas Mattos
+Ayumi Takehara Lewandowski  
+Bernardo Chiamolera  
+Bruno Fischer Ferreira Santos  
+Dalton Solano dos Reis  
+Emanuel Girardi  
+Gabriel Jorge Utyama de Carvalho  
+Guilherme Ricardo Bez Junior  
+João Gabriel Soares Lavina  
+João Paulo de Lima  
+Kayla Gianotti Dias Macedo  
+Larissa Zózimo Antunes  
+Leonardo Linhares Silva  
+Letícia Fruet  
+Lucas Hong Lae Son  
+Luciana Pereira de Araújo Kohler  
+Luís Felipe de Castilho  
+Luiz Henrique Martendal  
+Maria Fernanda Zimmermann  
+Maurício Capobianco Lopes  
+Miguel Alexandre Wisintainer  
+Nando Matheus Rocha  
+Vinícius Estrázulas Mattos  
 
 ## 2023-1
 
