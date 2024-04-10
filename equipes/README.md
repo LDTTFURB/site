@@ -1,5 +1,9 @@
 # Histórico das Equipes do LDTT
 
+## 2023-2
+
+
+
 ## 2023-1
 
 ![LDTT_Equipe_2023_1](LDTT_Equipe_2023_1.png)  
