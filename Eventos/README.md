@@ -1,4 +1,4 @@
-# Materiais do LDTT
+# Eventos LDTT
 
 ## 2023-07-20 - Timbó
 
@@ -8,19 +8,17 @@
 
 ![Evento](./Documentos/2023-07-20_evento.jpeg)  
 
-<video src="./Documentos/2023-07-20_Video.mp4" controls title="Video"></video>  
+![video](/Documentos/2023-07-20_Video.mp4)
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-<video src="./Documentos/2023-07-20_Instagram.mp4" controls title="Instagram"></video>  
+![video](./Documentos/2023-07-20_Instagram.mp4)
 
-<video src="./Documentos/2023-07-20_NDTV.mp4" controls title="NDTV."></video>  
-
-----
+![video](./Documentos/2023-07-20_NDTV.mp4)
 
 ## 2023-08-11 - Robô
 
-<video src="./Documentos/2023-08-11_Robo.mp4" controls title="./Documentos/2023-08-11_Robo.mp4"></video>  
+![video](./Documentos/2023-08-11_Robo.mp4)
 
 ## 2023-08-19 - CRAS
 
@@ -35,8 +33,8 @@
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
 ![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)  
-<video src="./Documentos/2023-09-26_OdtGame_b.mp4" controls title="2023-09-26_OdtGame_b"></video>  
-<video src="./Documentos/2023-09-26_OdtGame_c.mp4" controls title="2023-09-26_OdtGame_c"></video>  
+![video](./Documentos/2023-09-26_OdtGame_b.mp4)
+![video](./Documentos/2023-09-26_OdtGame_c.mp4)
 
 ## 2023-10-04 - MIPE
 
@@ -44,4 +42,4 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-16 - 13:46
 
-<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="LDTT_institucional"></video>  
+![video](./Documentos/2023-10-16_LDTT_institucional.mp4)
