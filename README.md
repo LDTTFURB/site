@@ -2,11 +2,11 @@
 
 ## [Equipe LDTT](./Histórico%20das%20Equipes/)  
 
-## Mais informações osbre o  [LDTT](http://ldttweb.furb.br/ldtt/)  
+## [O LDTT](http://ldttweb.furb.br/ldtt/)  
 
-## Projeto [Furbot](https://furbotldtt.wixsite.com/my-site-1)  
+## [ Projeto Furbot](https://furbotldtt.wixsite.com/my-site-1)  
 
-## Projeto [Habitat](https://www.furb.br/Habitat)
+## [Projeto Habitat](https://www.furb.br/Habitat)
 
 ## [APKs](https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing)  
 
