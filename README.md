@@ -1,16 +1,14 @@
 # LDTT - Laboratório de Desenvolvimento e Transferência de Tecnologia
 
-## [Wiki](../../wiki/Home)  
-
 ## [Equipes](equipes)  
 
 ## [LDTT](http://ldttweb.furb.br/ldtt/)  
 
 ## [Furbot](https://furbotldtt.wixsite.com/my-site-1)  
 
-## [APKs](https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing)  
-
 ## [Habitat](https://www.furb.br/Habitat)
+
+## [APKs](https://drive.google.com/drive/folders/1fSPLd9Pn71gNQ7FQ6ZIunvArKg2a4u0W?usp=sharing)  
 
 ## Regra Internas de Utilização
 
@@ -28,7 +26,7 @@ Escovacao        -> Arquivado
 Piramide         -> Arquivado  
 
 Minigames        -> ArenaDeJogos  
- 
+
 Que animal?!     -> Amazônia  
 Cano             -> Cano  
 Memória          -> Memória  
