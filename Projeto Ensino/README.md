@@ -1,6 +1,6 @@
 # Projeto Ensino
 
-Material de estudo para projetos de Ensino. Entre em Tópicos para ver os materiais disponíveis.
+Material de estudo para projetos de Ensino. Entre na pasta "Tópicos" para ver os materiais disponíveis.
 
 Ajude a manter este material organizado, avise [dalton@furb.br](mailto:dalton@furb.br) caso encontre algum(a):
 
