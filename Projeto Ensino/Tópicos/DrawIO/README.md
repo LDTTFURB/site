@@ -9,6 +9,6 @@ Eu uso sempre a ".drawio.svg", pois assim além de permitir usar o Draw.io em si
 E, o motivo de usar um SVG e não PNG (ou outro) é porque o SVG é um arquivo vetorial e não raster como o PNG, e assim não se tem problemas de aliasing (eheh, "neura" de professor de CG).  
 
 E, algumas vezes injeto chamadas para gerar o PlantUML direto do serve:  
-![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpMatA/main/Unidade1/imgs/ExemploOrdenarTresValores.wsd  
+![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpMatA/main/Unidade1/imgs/ExemploOrdenarTresValores.wsd)  
 
 Assim, usa o ".wsd" para gerar o SVG direto sem precisar ficar gerando o SVG a cada edição.  

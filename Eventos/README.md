@@ -2,15 +2,15 @@
 
 ## 2023-07-20 - Tímbo
 
-[Tapete Furbot](./Documentos/2023-07-14_Timbo.mov)  
+[Tapete Furbot](2023-07-14_Timbo.mp4)  
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
-![Evento](./Documentos/2023-07-20_evento.jpeg)  
+![Evento](2023-07-20_evento.jpeg)  
 
 <video src="2023-07-20_Video.mp4" controls title="Vídeo"></video>  
 
-[Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
+[Apresentação](2023-07-20_apresentacao.pdf)
 
 <video src="2023-07-20_Instagram.mp4" controls title="2023-07-20_Instagram"></video>  
 
@@ -24,11 +24,11 @@
 
 ## 2023-08-19 - CRAS
 
-[2023-08-19_CRAS](./CRAS%202023-08-19/ "2023-08-19_CRAS")  
+[2023-08-19_CRAS](./2023-08-19_CRAS/ "2023-08-19_CRAS")  
 
 ## 2023-08-25 - FFM
 
-![2023-08-25_FFM](./Documentos/2023-08-25_FFM.png)  
+![2023-08-25_FFM](2023-08-25_FFM.png)  
 
 ## 2023-09-26 - OdtGame
 
@@ -40,7 +40,7 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-04 - MIPE
 
-[2023-10-04_MIPE](./Documentos/2023-10-04_MIPE.pdf "2023-10-04_MIPE")  
+[2023-10-04_MIPE](2023-10-04_MIPE.pdf "2023-10-04_MIPE")  
 
 ## 2023-10-16 - 13:46
 
