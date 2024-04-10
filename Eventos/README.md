@@ -8,7 +8,7 @@
 
 ![Evento](./Documentos/2023-07-20_evento.jpeg)  
 
-<video src="2023-07-20_Video.mp4" controls title="Vídeo"></video>  
+<video src="./Documentos/2023-07-20_Video.mp4" controls title="./Documentos/2023-07-20_Video.mp4"></video>  
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
