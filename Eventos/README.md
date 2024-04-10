@@ -6,15 +6,15 @@
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
-![Evento](./Documentos/2023-07-20_evento.jpeg)  
+![image](./Documentos/2023-07-20_evento.jpeg)  
 
-![video](/Documentos/2023-07-20_Video.mp4)
+[video](./Documentos/2023-07-20_Video.mp4)
 
 [Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
-![video](./Documentos/2023-07-20_Instagram.mp4)
+[video](./Documentos/2023-07-20_Instagram.mp4)
 
-![video](./Documentos/2023-07-20_NDTV.mp4)
+[video](./Documentos/2023-07-20_NDTV.mp4)
 
 ## 2023-08-11 - Robô
 
