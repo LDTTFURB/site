@@ -2,15 +2,15 @@
 
 ## 2023-07-20 - Timbó
 
-![2023-07-14_Timbo](./Documentos/2023-07-14_Timbo.mp4)  
+[Vídeo](./Documentos/2023-07-14_Timbo.mp4) Tapete Furbot
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
-![image](./Documentos/2023-07-20_evento.jpeg)  
+![Evento](./Documentos/2023-07-20_evento.jpeg)  
 
 ![video](/Documentos/2023-07-20_Video.mp4)
 
-[Apresentação de Slides](./Documentos/2023-07-20_apresentacao.pdf)
+[Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
 
 ![video](./Documentos/2023-07-20_Instagram.mp4)
 
@@ -33,8 +33,8 @@
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
 ![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)  
-![2023-09-26_OdtGame_b](./Documentos/2023-09-26_OdtGame_b.mp4)
-![2023-09-26_OdtGame_c](./Documentos/2023-09-26_OdtGame_c.mp4)
+![video](./Documentos/2023-09-26_OdtGame_b.mp4)
+![video](./Documentos/2023-09-26_OdtGame_c.mp4)
 
 ## 2023-10-04 - MIPE
 
@@ -42,4 +42,4 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-16 - 13:46
 
-![2023-10-16_LDTT_institucional](./Documentos/2023-10-16_LDTT_institucional.mp4)
+![video](./Documentos/2023-10-16_LDTT_institucional.mp4)
