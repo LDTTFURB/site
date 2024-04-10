@@ -20,11 +20,11 @@
 
 ## 2023-08-11 - Robô
 
-<video src="2023-08-11_Robo.mp4" controls title="2023-08-11_Robo"></video>  
+<video src="./Documentos/2023-08-11_Robo.mp4" controls title="2023-08-11_Robo"></video>  
 
 ## 2023-08-19 - CRAS
 
-[2023-08-19_CRAS](./CRAS%202023-08-19/ "2023-08-19_CRAS")  
+[Imagens / Vídeos](./CRAS%202023-08-19/ "2023-08-19_CRAS") evento CRAS  
 
 ## 2023-08-25 - FFM
 
@@ -35,8 +35,8 @@
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
 ![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)  
-<video src="2023-09-26_OdtGame_b.mp4" controls title="2023-09-26_OdtGame_b"></video>  
-<video src="2023-09-26_OdtGame_c.mp4" controls title="2023-09-26_OdtGame_c"></video>  
+<video src="./Documentos/2023-09-26_OdtGame_b.mp4" controls title="2023-09-26_OdtGame_b"></video>  
+<video src="./Documentos/2023-09-26_OdtGame_c.mp4" controls title="2023-09-26_OdtGame_c"></video>  
 
 ## 2023-10-04 - MIPE
 
@@ -44,4 +44,4 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-16 - 13:46
 
-<video src="2023-10-16_LDTT_institucional.mp4" controls title="2023-10-16_LDTT_institucional.mp4"></video>  
+<video src="./Documentos/2023-10-16_LDTT_institucional.mp4" controls title="2023-10-16_LDTT_institucional.mp4"></video>  
