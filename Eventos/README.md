@@ -8,7 +8,7 @@
 
 ## 2023-07-20 - Lançamento Furbot ACIB
 
-![image](./Documentos/2023-07-20_evento.jpeg)>
+![image](./Documentos/2023-07-20_evento.jpeg)
 
 [Video](./Documentos/2023-07-20_Video.mp4) FURBOT
 
@@ -34,7 +34,7 @@
 
 ## 2023-08-25 - FFM
 
-![image](./Documentos/2023-08-25_FFM.png)>
+![image](./Documentos/2023-08-25_FFM.png)
 
 ---
 
@@ -42,7 +42,7 @@
 
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
-![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)>
+![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)
 
 [Video](./Documentos/2023-09-26_OdtGame_b.mp4) OdtGame 01
 
