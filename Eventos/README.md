@@ -42,7 +42,7 @@
 
 Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a profa. Márcia (Odontologia) na escola Escola Básica Municipal Profª Hella Altenburg.  
 
-![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)width="200" height="auto"> 
+![2023-09-26_OdtGame_a](./Documentos/2023-09-26_OdtGame_a.jpeg)>
 
 [Video](./Documentos/2023-09-26_OdtGame_b.mp4) OdtGame 01
 
