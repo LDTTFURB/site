@@ -34,7 +34,7 @@
 
 ## 2023-08-25 - FFM
 
-![image](./Documentos/2023-08-25_FFM.png)width="200" height="auto">
+![image](./Documentos/2023-08-25_FFM.png)>
 
 ---
 
