@@ -33,17 +33,20 @@ Versão: 1.0.0
 
 ## 2. Plano de teste
 
-   Identificação dos requisitos que serão testados, seguidos pelas técnicas empregadas, critérios de finalização de teste E lista o conjunto de ferramentas utilizadas.
+   Identificação dos requisitos que serão testados, seguidos pelas técnicas empregadas, critérios de finalização de teste e lista o conjunto de ferramentas utilizadas.
 
 - 2.1. Plano de testes por categoria
+  
    Categorias selecionadas para testes.
 
 - 2.2. Atividades de Testes
   
   - 2.2.1. Cronograma de Atividades
+
    Detalhamento sobre datas de cada atividade desenvolvida para o plano.
 
   - 2.2.2. Responsáveis pelas Atividades de testes
+
    Detalhamento sobre os desenvolvedores e auxiliares pela montagem e execução do plano de testes.
 
 ## 3. Gerenciamento do plano de testes
