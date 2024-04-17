@@ -22,17 +22,17 @@
 
 ## Nomes dos Minigames
 
-Escovacao    -> Arquivado  
-Piramide     -> Arquivado  
+Escovacao        -> Arquivado  
+Piramide         -> Arquivado  
 
-Minigames    -> ArenaDeJogos  
+Minigames        -> ArenaDeJogos  
 
-Que animal?! -> Amazônia  
-Cano         -> Cano  
-Memória      -> Memória  
-Bot Ninja    -> Confronto  
-Senha        -> Senha  
-Jogo do Lixo -> Lixo  
-Furchoque    -> Furchoque  
-Labirinto    -> Labirinto  
-Pescaria     -> Pesca  
+Que animal?!     -> Amazônia  
+Cano             -> Cano  
+Memória          -> Memória  
+Bot Ninja        -> Confronto  
+Senha            -> Senha  
+Jogo do Lixo     -> Lixo  
+Furchoque        -> Furchoque  
+Labirinto        -> Labirinto  
+Pescaria         -> Pesca  
