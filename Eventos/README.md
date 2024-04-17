@@ -62,4 +62,6 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2024-03-06
 
-![image](./Documentos/2024-02_ConcursoBolsistas.jpg) Prova de seleção para novos bolsistas
+Prova de seleção para novos bolsistas
+
+![image](./Documentos/2024-02_ConcursoBolsistas.jpg) 
