@@ -12,7 +12,7 @@
 
 [Video](./Documentos/2023-07-20_Video.mp4) FURBOT
 
-[Apresentação](./Documentos/2023-07-20_apresentacao.pdf)
+[Apresentação](./Documentos/2023-07-20_apresentacao.pdf) de slides
 
 [Vídeo](./Documentos/2023-07-20_Instagram.mp4) publicado no Instagram
 
@@ -52,10 +52,14 @@ Oficina para avaliar os minigames do projeto Odonto Game na escola junto com a p
 
 ## 2023-10-04 - MIPE
 
-[Documentos](./Documentos/2023-10-04_MIPE.pdf "2023-10-04_MIPE") pdf 17° Mipe
+[Documentos](./Documentos/2023-10-04_MIPE.pdf "2023-10-04_MIPE") 17° Mipe
 
 ---
 
-## 2023-10-16 - 13:46
+## 2023-10-16
 
 [Vídeo](./Documentos/2023-10-16_LDTT_institucional.mp4) Institucional
+
+## 2024-03-06
+
+![image](./Documentos/2024-02_ConcursoBolsistas.jpg) Prova de seleção para novos bolsistas
