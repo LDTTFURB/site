@@ -17,18 +17,23 @@ Versão: 1.0.0
    Identificação, descrição e informações importantes sobre o sistema testado e público ao qual ele se destina.
 
 - 1.2. Objetivos
+
    Objetivo e finalidades dos testes desenvolvidos (separados por categorias) e do plano de testes como um todo.
 
 - 1.3. Requisitos funcionais
+
    Identificação de necessidades que devem ser atendidas pelo software por meio de funções ou serviços.
 
 - 1.4. Requisitos não funcionais
+  
    Identificação de problemas de funcionalidades (desempenho, usabilidade, confiabilidade, segurança, disponibilidade, manutenção) do software.
 
 - 1.5. Diagrama de casos de uso
+  
    Identificação detalhada sobre a interação do usuário com o sistema.
 
 - 1.6. Diagrama de atividades
+  
    Organização de ideias e fluxo de controle de atividades.
 
 ## 2. Plano de teste
