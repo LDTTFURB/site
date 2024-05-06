@@ -124,9 +124,18 @@ Ou ainda, em: <https://www.toptal.com/developers/gitignore>
 [git-submodule](https://git-scm.com/docs/git-submodule)  
 [stackoverflow git-submodule](https://stackoverflow.com/questions/36554810/how-to-link-folder-from-a-git-repo-to-another-repo)  
 
-    git submodule add <url>  
-    git submodule init  
-    git submodule update  
+  git submodule add <url>  
+  git submodule init  
+  git submodule update  
+  git submodule status
+
+  cd pasta_git_submodule
+  git branch -a
+  git checkout release/nome_branch
+  git branch -a
+
+  cd ..
+  git submodule status
 
 ### Tags
 
