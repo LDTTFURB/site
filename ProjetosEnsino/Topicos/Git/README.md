@@ -129,10 +129,10 @@ Ou ainda, em: <https://www.toptal.com/developers/gitignore>
   git submodule update  
   git submodule status
 
-  cd pasta_git_submodule
-  git branch -a
-  git checkout release/nome_branch
-  git branch -a
+  cd pasta_git_submodule  
+  git branch -a  
+  git checkout release/nome_branch  
+  git branch -a  
 
   cd ..
   git submodule status
