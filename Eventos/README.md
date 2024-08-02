@@ -69,3 +69,5 @@ Prova de seleção para novos bolsistas
 ## 2024-05-02
 
 <video controls src="Documentos/20240-05-02_NSTV_60anosFURB_LDTT.mp4" title="NSTV_60anosFURB_LDTT"></video>  
+
+[Documentos/2024-08-01_StudioBelli](Documentos/2024-08-01_StudioBelli)  
