@@ -69,7 +69,7 @@ Existe mais para se fazer em Markdown, mas isto já é um bom resumo.
 
 ## Highlight a "Note" and "Warning" using blockquote
 
-[https://github.com/orgs/community/discussions/16925]  
+<https://github.com/orgs/community/discussions/16925>  
 
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
