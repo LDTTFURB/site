@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Tópicos/CSharp/Teste/Teste.csproj",
+      "projectUniqueName": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/Teste/Teste.csproj",
       "projectName": "Teste",
-      "projectPath": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Tópicos/CSharp/Teste/Teste.csproj",
+      "projectPath": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/Teste/Teste.csproj",
       "packagesPath": "/Users/daltonreis/.nuget/packages/",
-      "outputPath": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Tópicos/CSharp/Teste/obj/",
+      "outputPath": "/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/Teste/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daltonreis/.nuget/NuGet/NuGet.Config"
