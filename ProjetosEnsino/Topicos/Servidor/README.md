@@ -1,27 +1,23 @@
-# Servidor
+# Servidor Cavala
+
+Servidor do LDTT  
 
 ## Permissões
 
-## 2024-09-17 - 15:03
-
-### Acesso SSH
-
-### Acesso Doxcker
-
+Dalton Solano dos Reis (dalton@furb.br)  
+Jorge Guilherme Kohn (jkohn@furb.br)  
+Luciana Pereira de Araújo Kohler (lpa@furb.br)  
 Luiz Henrique Martendal (lhmartendal@furb.br)  
 Vinícius Estrázulas Mattos (vemattos@furb.br)  
-Jorge Guilherme Kohn (jkohn@furb.br)  
 
-Marlon Sbardelatti (msbardelatti@furb.br)  
 Emanuel Girardi (esgirardi@furb.br)  
-Leonardo Linhares Silva (leonardolinhares@furb.br)  
 Felipe Krieger Buche (fbuche@furb.br)  
-
-## Cavala
-
-Pra se conectar, vc pode usar qualquer cliente SSH (por exemplo o Putty). Acho que vc usa o MAC, então deve ter um cliente SSH via linha de comando no terminal dele. De qualquer forma, esses são os dados de conexão:  
+Leonardo Linhares Silva (leonardolinhares@furb.br)  
+Marlon Sbardelatti (msbardelatti@furb.br)  
 
 ### Conectar
+
+Pra se conectar, vc pode usar qualquer cliente SSH (por exemplo o Putty no Windows). No MAC pode ser usado um cliente SSH via linha de comando no terminal. De qualquer forma, esses são os dados de conexão:  
 
 ![puttyCFG](puttyCFG.png)  
 
@@ -29,19 +25,21 @@ Pra se conectar, vc pode usar qualquer cliente SSH (por exemplo o Putty). Acho q
 > ssh -p 22 dalton@cavala.furb.br  
 ```
 
-Script pra vc dar acesso aos alunos. Está no seu home da cavala, dentro do diretório scripts:  
+### Acesso  
 
 > [!IMPORTANT]
 > Conectar via VPN antes, caso vc esteja fora da FURB  
 
-### SSH
+#### SSH: permitir
 
-Conectar à Cavala via SSH (o aluno tem que estar na rede acadêmica interna da FURB) usar script: "/home/FURB/dalton/scripts)":  
+Script acesso /home/FURB/dalton/scripts:  
 [concede_acesso.bash](concede_acesso.bash)  
 
 ```terminal
-> sudo ./concede_acesso.bash username_do_usuario
+sudo ./concede_acesso.bash username_do_usuario
 ```
+
+#### SSH: remover
 
 Tirar a permissão de acesso via SSH:
 
@@ -49,7 +47,26 @@ Tirar a permissão de acesso via SSH:
 sudo gpasswd -d username_do_usuario ssh_logon
 ```
 
+#### SSH: listar
+
+```terminal
+sudo getent group ssh_logon
+```
+
+dalton
+jkohn
+lhmartendal
+lpa
+msbardelatti
+vemattos
+
+vandeir
+vanedu
+vanedu_teste
+
 ### Docker
+
+#### docker: permitir
 
 Permissão total ao docker e seus contêineres, pode usar este comando:  
 
@@ -57,8 +74,25 @@ Permissão total ao docker e seus contêineres, pode usar este comando:
 > sudo usermod -a -G docker username_do_usuario
 ```
 
+#### docker: remover
+
 Tirar a permissão de acesso ao docker:  
 
 ```terminal
 > sudo gpasswd -d username_do_usuario docker
 ```
+
+#### docker: listar
+
+```terminal  
+sudo getent group docker  
+```  
+
+dalton
+jkohn
+lhmartendal
+lpa
+vemattos
+
+vandeir
+vanedu
