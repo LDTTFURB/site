@@ -54,7 +54,10 @@ sudo getent group ssh_logon
 ```
 
 dalton
+esgirardi
+fbuche
 jkohn
+leonardolinhares
 lhmartendal
 lpa
 msbardelatti
