@@ -53,15 +53,15 @@ sudo gpasswd -d username_do_usuario ssh_logon
 sudo getent group ssh_logon
 ```
 
-dalton
+[x] dalton
 esgirardi
 fbuche
 jkohn
-leonardolinhares
+[x] leonardolinhares
 lhmartendal
 lpa
-msbardelatti
-vemattos
+[x] msbardelatti
+[erro] vemattos
 
 vandeir
 vanedu
