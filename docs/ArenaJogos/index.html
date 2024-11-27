@@ -57,19 +57,19 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WEB.loader.js";
+      var loaderUrl = buildUrl + "/WebGL.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WEB.data.unityweb",
-        frameworkUrl: buildUrl + "/WEB.framework.js.unityweb",
-        codeUrl: buildUrl + "/WEB.wasm.unityweb",
+        dataUrl: buildUrl + "/WebGL.data.unityweb",
+        frameworkUrl: buildUrl + "/WebGL.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebGL.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "FURB - LDTT ",
         productName: "ArenaJogos",
-        productVersion: "1.1.4",
+        productVersion: "1.2.1",
         showBanner: unityShowBanner,
       };
 
-      // By default Unity keeps WebGL canvas render target size matched with
+      // By default, Unity keeps WebGL canvas render target size matched with
       // the DOM size of the canvas element (scaled by window.devicePixelRatio)
       // Set this to false if you want to decouple this synchronization from
       // happening inside the engine, and you would instead like to size up
