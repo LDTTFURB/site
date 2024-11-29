@@ -27,14 +27,14 @@ namespace Teste
       TestePassagemParametro(ref valor);
       System.Console.WriteLine(valor);
 
-      Empregado emp1 = new();
-      Empregado emp2 = new("Dalton", 55);
+      Objeto obj1 = new();
+      Objeto obj2 = new("Dalton", 55);
 
-      emp1.Escrever();
-      emp1.Nome = "Teste";
-      emp1.Idade = 20;
-      emp1.Escrever();
-      emp2.Escrever();
+      obj1.Escrever();
+      obj1.Nome = "Teste";
+      obj1.Idade = 20;
+      obj1.Escrever();
+      obj2.Escrever();
 
     }
 

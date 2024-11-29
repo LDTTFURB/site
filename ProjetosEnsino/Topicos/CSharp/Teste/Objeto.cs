@@ -1,13 +1,13 @@
 namespace Teste
 {
-    public class Empregado(string nome, short idade)
+    public class Objeto(string nome, short idade) : IObjeto
     {
         // Propriedades
         public string Nome { get; set; } = nome;
         public short Idade { get; set; } = idade;
 
         // Construtor padrão
-        public Empregado() : this("", 0)
+        public Objeto() : this("", 0)
         {
         }
 
