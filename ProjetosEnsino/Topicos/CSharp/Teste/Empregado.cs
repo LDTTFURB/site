@@ -1,17 +1,10 @@
 namespace Teste
 {
-    public class Empregado
+    public class Empregado(string nome, short idade)
     {
         // Propriedades
-        public string Nome { get; set; }
-        public short Idade { get; set; }
-
-        // Construtor com parâmetros
-        public Empregado(string nome, short idade)
-        {
-            Nome = nome;
-            Idade = idade;
-        }
+        public string Nome { get; set; } = nome;
+        public short Idade { get; set; } = idade;
 
         // Construtor padrão
         public Empregado() : this("", 0)
