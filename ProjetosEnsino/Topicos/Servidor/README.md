@@ -10,7 +10,7 @@ Luciana Pereira de Araújo Kohler (lpa@furb.br)
 Luiz Henrique Martendal (lhmartendal@furb.br)  
 Vinícius Estrázulas Mattos (vemattos@furb.br)  
 
-Emanuel Girardi (esgirardi@furb.br)  
+REMOVER-> Emanuel Girardi (esgirardi@furb.br)  
 Felipe Krieger Buche (fbuche@furb.br)  
 Leonardo Linhares Silva (leonardolinhares@furb.br)  
 Marlon Sbardelatti (msbardelatti@furb.br)  
