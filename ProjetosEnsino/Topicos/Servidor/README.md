@@ -15,6 +15,20 @@ Felipe Krieger Buche (fbuche@furb.br)
 Leonardo Linhares Silva (leonardolinhares@furb.br)  
 Marlon Sbardelatti (msbardelatti@furb.br)  
 
+## Portas
+
+https://www.furb.br/ldtt/ecosol
+porta: 8090
+
+https://www.furb.br/ldtt/daex
+porta: 8095
+
+https://www.furb.br/ldtt/ricc
+porta: 8085
+
+https://www.furb.br/ldtt/bugio
+porta: 5000
+
 ### Conectar
 
 Pra se conectar, vc pode usar qualquer cliente SSH (por exemplo o Putty no Windows). No MAC pode ser usado um cliente SSH via linha de comando no terminal. De qualquer forma, esses são os dados de conexão:  
