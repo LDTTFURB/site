@@ -3,10 +3,10 @@
 ## Andreza
 
 | Bolsista               | Projeto | GIT  | Dia/Horário            | Carga Horária |
-|------------------------|---------|------|------------------------|----------------|
-| Caio Abraão Manarim	 | Seg a Qui: 12:00-17:00 | 20 horas |
-| Larissa Zózimo Antunes | Seg a Qui: 13:30-17:30 | 16 horas |
-| Marlon Sbardelatti | Seg a Qui: 13:30-18:30 | 20 horas |
+|------------------------|---------|------|------------------------|---------------|
+| Caio Abraão Manarim	   |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
+| Larissa Zózimo Antunes |         |      |Seg a Qui: 13:30-17:30  | 16 horas      |
+| Marlon Sbardelatti     |         |      |Seg a Qui: 13:30-18:30  | 20 horas      |
 
 ## Dalton
 
