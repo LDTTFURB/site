@@ -15,8 +15,7 @@
 | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
 | Bruno Fischer Ferreira Santos|         |       | Qui: 14:00-18:00 | 4 horas|
 | Fabian Formento|         |      | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
-| Gabriel Jorge Utyama de Carvalho|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Projeto_FlorestaSC_2024" target="_blank">Projeto_FlorestaSC_2024
-</a></details>     | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
+| Gabriel Jorge Utyama de Carvalho|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Projeto_FlorestaSC_2024" target="_blank">Projeto_FlorestaSC_2024</a></details>     | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
 | Leonardo Linhares Silva|         |       | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 | Matheus Gamba De Oliveira |         |      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
