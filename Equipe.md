@@ -10,14 +10,14 @@
 
 ## Dalton
 
-| Bolsista | Dia/Horário | Carga Horária |
-|-- |-- |-- |
-| Bernardo Chiamolera | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
-| Bruno Fischer Ferreira Santos | Qui: 14:00-18:00 | 4 horas|
-| Fabian Formento| Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
-| Gabriel Jorge Utyama de Carvalho | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
-| Leonardo Linhares Silva | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
-| Matheus Gamba De Oliveira | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
+| Bolsista               | Projeto | GIT  | Dia/Horário            | Carga Horária |
+|------------------------|---------|------|------------------------|---------------|
+| Bernardo Chiamolera    |         |      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
+| Bruno Fischer Ferreira Santos|         |       | Qui: 14:00-18:00 | 4 horas|
+| Fabian Formento|         |      | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
+| Gabriel Jorge Utyama de Carvalho|         |       | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
+| Leonardo Linhares Silva|         |       | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
+| Matheus Gamba De Oliveira |         |      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
