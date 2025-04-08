@@ -22,17 +22,17 @@
 
 ## Luciana
 
-| Bolsista | Dia/Horário | Carga Horária |
-|-- |-- |-- |
-| Ayumi Takehara Lewandowski | Seg a Sex: 13:30-17:30  / 14:00-18:00 | 20 horas |
-| Caroline Lucini | Seg a Sex: 12:40-16:40 | 20 horas |
-| João Eduardo Cappellari Trevisol | Seg a Qui: 12:00-17:00 | 20 horas |
-| Matheus Ohrt Perazzo Leite Galvão | Seg a Qui: 12:00-17:00 | 20 horas |
-| Venâncio Domingos Cassua | Seg a Qui: 14:00-18:00 e Sex: 13:00-17:00 | 20 horas |
-| Vinícius Estrázulas Mattos | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
+| Bolsista               | Projeto | GIT  | Dia/Horário            | Carga Horária |
+|------------------------|---------|------|------------------------|---------------|
+| Ayumi Takehara Lewandowski|         |       | Seg a Sex: 13:30-17:30  / 14:00-18:00 | 20 horas |
+| Caroline Lucini|         |       | Seg a Sex: 12:40-16:40 | 20 horas |
+| João Eduardo Cappellari Trevisol|         |       | Seg a Qui: 12:00-17:00 | 20 horas |
+| Matheus Ohrt Perazzo Leite Galvão|         |       | Seg a Qui: 12:00-17:00 | 20 horas |
+| Venâncio Domingos Cassua|         |       | Seg a Qui: 14:00-18:00 e Sex: 13:00-17:00 | 20 horas |
+| Vinícius Estrázulas Mattos|         |       | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 
 ## Miguel
 
-| Bolsista | Dia/Horário | Carga Horária |
-|-- |-- |-- |
-| Thierry Henry Zancanaro da Silva | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
+| Bolsista               | Projeto | GIT  | Dia/Horário            | Carga Horária |
+|------------------------|---------|------|------------------------|---------------|
+| Thierry Henry Zancanaro da Silva |         |      | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
