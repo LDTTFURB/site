@@ -29,7 +29,7 @@
 | João Eduardo Cappellari Trevisol|         |       | Seg a Qui: 12:00-17:00 | 20 horas |
 | Matheus Ohrt Perazzo Leite Galvão|         |       | Seg a Qui: 12:00-17:00 | 20 horas |
 | Venâncio Domingos Cassua|         |       | Seg a Qui: 14:00-18:00 e Sex: 13:00-17:00 | 20 horas |
-| Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>  </a></details> <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br>   | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
+| Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>   <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br> </a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 
 ## Miguel
 
