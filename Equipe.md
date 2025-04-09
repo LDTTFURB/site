@@ -42,12 +42,6 @@
 | Venâncio Domingos Cassua|         |       | Seg a Qui: 14:00-18:00 e Sex: 13:00-17:00 | 20 horas |
 | Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>   <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br> </a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 
-## Miguel
-
-| Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|------------------------|---------|------|------------------------|---------------|
-| Thierry Henry Zancanaro da Silva |         |      | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
-
 ## Mauricio
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
@@ -55,5 +49,8 @@
 | Lucas Hong Lae Son |         |      | remoto | 20 horas |
 | Nando Matheus Rocha |         |      | remoto | 20 horas |
 
+## Miguel
 
-
+| Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
+|------------------------|---------|------|------------------------|---------------|
+| Thierry Henry Zancanaro da Silva |         |      | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
