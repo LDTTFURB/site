@@ -12,12 +12,15 @@
 | João Paulo de Lima |         |      |Seg a Sex: 13:00-17:00  | 20 horas      |
 | Marlon Sbardelatti      |         |      |Seg a Qui: 13:30-18:30  | 20 horas      |
 
-## Dalton
+## [Dalton Solano dos Reis](https://dalton-reis.github.io/dalton-reis/)
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
-| Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
 | Bruno Fischer Ferreira Santos|         |       | Qui: 14:00-18:00 | 4 horas|
+| Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
+
+| Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
+|------------------------|---------|------|------------------------|---------------|
 | Cauã Fernando Bertolini      |         |       | Seg a Sex: 12:00-16:00 | 20 horas|
 | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
 | Fabian Formento|         |      | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
