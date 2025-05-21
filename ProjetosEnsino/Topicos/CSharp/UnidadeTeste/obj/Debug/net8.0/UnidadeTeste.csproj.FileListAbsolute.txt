@@ -1,0 +1,15 @@
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/bin/Debug/net8.0/UnidadeTeste
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/bin/Debug/net8.0/UnidadeTeste.deps.json
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/bin/Debug/net8.0/UnidadeTeste.runtimeconfig.json
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/bin/Debug/net8.0/UnidadeTeste.dll
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/bin/Debug/net8.0/UnidadeTeste.pdb
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.AssemblyInfoInputs.cache
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.AssemblyInfo.cs
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.csproj.CoreCompileInputs.cache
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.sourcelink.json
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.dll
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/refint/UnidadeTeste.dll
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.pdb
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/UnidadeTeste.genruntimeconfig.cache
+/Users/daltonreis/GitHub/LDTTFURB/site/ProjetosEnsino/Topicos/CSharp/UnidadeTeste/obj/Debug/net8.0/ref/UnidadeTeste.dll

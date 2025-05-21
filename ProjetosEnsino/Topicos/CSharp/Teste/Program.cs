@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Teste
 {
@@ -30,11 +31,28 @@ namespace Teste
       Objeto obj1 = new();
       Objeto obj2 = new("Dalton", 55);
 
+      ArrayList lista = new();
+      lista.Add(obj1);
+      lista.Add(obj2);
+
       obj1.Escrever();
       obj1.Nome = "Teste";
       obj1.Idade = 20;
       obj1.Escrever();
       obj2.Escrever();
+
+      foreach (var item in lista)
+      {
+        System.Console.WriteLine(item);
+      }
+
+
+      // Fibonacci f = new Fibonacci();
+      // System.Console.WriteLine(f.fibonacci(100));
+
+      ClasseDerivada derivada = new();
+      derivada.Valor = 10;
+      derivada.MostrarValor();
 
     }
 
