@@ -33,7 +33,7 @@
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
-![alt text](Equipe/prof_Luciana.png)  
+<img src="Equipe/prof_Luciana.png" width="300">
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
