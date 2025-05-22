@@ -28,11 +28,12 @@
 | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>    | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
 | Gabriel Jorge Utyama de Carvalho|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Projeto_FlorestaSC_2024" target="_blank">Projeto_FlorestaSC_2024</a></br><a href="https://github.com/LDTTFURB/Projeto_FFM_2023_Consequencias" target="_blank">Projeto_FFM_2023_Consequencias</a></details>    | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
 | Leonardo Linhares Silva|         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a><br><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/ldtt-servidor" target="_blank">ldtt-servidor</a><br><a href="https://github.com/LDTTFURB/LDTT_SuperTrunfoElementar" target="_blank">LDTT_SuperTrunfoElementar</a><br><a href="https://github.com/LDTTFURB/site" target="_blank">site</a><br><a href="https://github.com/LDTTFURB/site_privado" target="_blank">site_privado</a></details> |  Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
-| Matheus Gamba De Oliveira |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
+| Matheus Gamba de Oliveira |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
 | Vinícius do Espírito Santo Lopes |         |      | Seg a Qui: 14:00-19:00 | 20 horas |
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
+![alt text](Equipe/prof_Luciana.png)  
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
