@@ -3,7 +3,7 @@
 <!-- https://furb.sharepoint.com/:x:/r/sites/tecedu-furb/_layouts/15/doc2.aspx?sourcedoc=%7B6D1E3674-9942-4869-9D75-217681BF567E%7D&file=Controle_Bolsistas.xlsx&fromShare=true&action=default&mobileredirect=true -->
 
 ## Andreza
-<img src="Equipe/prof_Andreza.png" width="100">
+<img src="./prof_Andreza.png" width="100">
 
 | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |-------------------------|---------|------|------------------------|---------------|
@@ -17,7 +17,7 @@
 
 ## [Dalton Solano dos Reis](https://dalton-reis.github.io/dalton-reis/)
 
-<img src="Equipe/prof_Dalton.png" width="100">
+<img src="./prof_Dalton.png" width="100">
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
@@ -36,7 +36,7 @@
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
-<img src="Equipe/prof_Luciana.png" width="100">
+<img src="./prof_Luciana.png" width="100">
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
@@ -52,7 +52,7 @@
 | Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>   <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br> </a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 
 ## Mauricio
-<img src="Equipe/prof_Mauricio.png" width="100">
+<img src="./prof_Mauricio.png" width="100">
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
@@ -60,7 +60,7 @@
 | Nando Matheus Rocha |         |      | remoto | 20 horas |
 
 ## Miguel
-<img src="Equipe/prof_Miguel.png" width="100">
+<img src="./prof_Miguel.png" width="100">
 
 | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |------------------------|---------|------|------------------------|---------------|
