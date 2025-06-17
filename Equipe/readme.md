@@ -11,7 +11,6 @@
 | <div align="center"><img width="80" src="https://github.com/user-attachments/assets/800993e1-af73-464b-9094-7ce04a8207bb" /></div> | Ana Clara Lopes Hostins |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 | <div align="center"><img width="80" src="https://github.com/user-attachments/assets/cc94e81e-b62d-4411-8c77-fc7afd8a6f48" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e530b5be-5c44-46eb-8130-aaabeee1123b" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/1e7fc8af-6eef-40a3-bf0c-8aeb499d6fe5" />  | Gustavo Alexandre Fernandes |         |      |Seg a Qui: 16:00-21:00  | 20 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/319bc18a-a317-499d-88ba-7e0a747193f4" />  | Gustavo Henrique Luiz |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/5ff39aad-624c-4507-b6b0-dad016bc8249" />  | João Paulo de Lima |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>     |Seg a Sex: 13:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/10a6c26d-e56c-436e-bc79-288890426583" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
@@ -67,4 +66,5 @@
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|------------------------|---------|------|------------------------|---------------|
+|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/1e7fc8af-6eef-40a3-bf0c-8aeb499d6fe5" />  | Gustavo Alexandre Fernandes |         |      |Seg a Qui: 16:00-21:00  | 20 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/66c1f08a-bbbb-4568-b153-d5866970c873" /> </div> | Thierry Henry Zancanaro da Silva |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>   | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
