@@ -13,8 +13,8 @@
 |--|-------------------------|---------|------|------------------------|---------------|
 | <div align="center"><img width="80" src="https://github.com/user-attachments/assets/800993e1-af73-464b-9094-7ce04a8207bb" /></div> | Ana Clara Lopes Hostins |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 | <div align="center"><img width="80" src="https://github.com/user-attachments/assets/cc94e81e-b62d-4411-8c77-fc7afd8a6f48" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e530b5be-5c44-46eb-8130-aaabeee1123b" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/319bc18a-a317-499d-88ba-7e0a747193f4" />  | Gustavo Henrique Luiz |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
+|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e530b5be-5c44-46eb-8130-aaabeee1123b" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/10a6c26d-e56c-436e-bc79-288890426583" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
 
 ## [Dalton Solano dos Reis](https://dalton-reis.github.io/dalton-reis/)
