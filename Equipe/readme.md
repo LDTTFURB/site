@@ -5,7 +5,11 @@
 <!-- |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
 -->
 
+Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
+<https://www.furb.br/ldtt/daex/>  
+
 ## Andreza
+
 <img src="./prof_Andreza.png" width="100">
 
   
@@ -33,6 +37,7 @@
 <!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
+
 <img src="./prof_Luciana.png" width="100">
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
@@ -50,6 +55,7 @@
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/b2efb999-5c5b-4946-a50a-83be35dd5f3a" />  | Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>   <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br> </a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
 
 ## Mauricio
+
 <img src="./prof_Mauricio.png" width="100">
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
@@ -60,6 +66,7 @@
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/7e478634-b582-4ff8-8e86-80c55af88d72" /></div>  | Nando Matheus Rocha |         |      | remoto | 20 horas |
 
 ## Miguel
+
 <img src="./prof_Miguel.png" width="100">
 
 
