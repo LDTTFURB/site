@@ -2,6 +2,9 @@
 
 <!-- https://furb.sharepoint.com/:x:/r/sites/tecedu-furb/_layouts/15/doc2.aspx?sourcedoc=%7B6D1E3674-9942-4869-9D75-217681BF567E%7D&file=Controle_Bolsistas.xlsx&fromShare=true&action=default&mobileredirect=true -->
 
+<!-- |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
+-->
+
 ## Andreza
 <img src="./prof_Andreza.png" width="100">
 
@@ -21,11 +24,7 @@
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|------------------------|---------|------|------------------------|---------------|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/00a61deb-106f-44bd-a977-274fa65f6321" />  | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
-
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/223dcad0-4e0f-4230-aa8d-6170ffe58317" />  | Cauã Fernando Bertolini      |         |       | Seg a Sex: 12:00-16:00 | 20 horas|
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/ff547974-a92d-4962-8127-24c3f49aacc2" />  | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
 |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e3843e24-12ca-410b-a8f5-cf2da58ffb20" />  | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
