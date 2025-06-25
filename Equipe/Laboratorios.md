@@ -3,6 +3,8 @@
 Ramal: 484 - Bruno
 VPN se for WIFI
 
+[reservasala@furb.br](mailto:reservasala@furb.br)  
+
 MacOS ______
 $ brew install wakeonlan
 $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
