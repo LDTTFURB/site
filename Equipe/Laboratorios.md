@@ -12,8 +12,6 @@ Em relação ao laboratório S-212, poderias…
 __ Liberar o acesso:
   Nome_Bolsista (cod. Pessoa: XXXXX)
 
-Nos próximos pedidos, quem vai fazer será o Cauã (copiado nessa mensagem)… ele é o nosso bolsista.
-
 At.te.
 ```
 
@@ -35,7 +33,7 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 
 ![WakeLan](WakeLan.png)  
-!RD_CFG](RD_CFG.png)  
+![RD_CFG](RD_CFG.png)  
 
 ## Laboratório S-212
 
