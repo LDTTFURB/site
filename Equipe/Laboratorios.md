@@ -4,6 +4,30 @@ Ramal: 484 - Bruno
 VPN se for WIFI
 
 [reservasala@furb.br](mailto:reservasala@furb.br)  
+```markdown
+Bom dia, Bruno,
+
+Em relação ao laboratório S-212, poderias…
+
+__ Liberar o acesso:
+  Nome_Bolsista (cod. Pessoa: XXXXX)
+
+Nos próximos pedidos, quem vai fazer será o Cauã (copiado nessa mensagem)… ele é o nosso bolsista.
+
+At.te.
+```
+
+Bom dia, Bruno,
+
+Em relação ao laboratório S-212, poderias…
+
+__ Liberar o acesso:
+	João Paulo de Lima (cod. Pessoa: 220263)
+	Mateus Dassoler Spezia (cod. pessoa: 221505)
+
+Nos próximos pedidos, quem vai fazer será o Cauã (copiado nessa mensagem)… ele é o nosso bolsista.
+
+At.te.
 
 MacOS ______
 $ brew install wakeonlan
