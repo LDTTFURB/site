@@ -4,6 +4,7 @@ Ramal: 484 - Bruno
 VPN se for WIFI
 
 [reservasala@furb.br](mailto:reservasala@furb.br)  
+
 ```markdown
 Bom dia, Bruno,
 
@@ -15,22 +16,10 @@ __ Liberar o acesso:
 At.te.
 ```
 
-Bom dia, Bruno,
-
-Em relação ao laboratório S-212, poderias…
-
-__ Liberar o acesso:
-	João Paulo de Lima (cod. Pessoa: 220263)
-	Mateus Dassoler Spezia (cod. pessoa: 221505)
-
-Nos próximos pedidos, quem vai fazer será o Cauã (copiado nessa mensagem)… ele é o nosso bolsista.
-
-At.te.
-
 MacOS ______
 $ brew install wakeonlan
 $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
-https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
+<https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR>
 
 ![WakeLan](WakeLan.png)  
 ![RD_CFG](RD_CFG.png)  
@@ -51,7 +40,7 @@ https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 | MC-5831 | 74-56-3C-F2-C4-82   | Unity 6 .. .29          |
 | MC-5833 | 74-56-3C-F2-C0-9B   | Unity 6 .. .28          |
 
-### Bolsistas
+### Bolsistas S-212
 
 | Bolsista                             | Matrícula | PC       |
 |--------------------------------------|-----------|----------|
@@ -74,7 +63,7 @@ https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 | MC-5383  | Adobe Illustrator  |
 | MC-5385  | Adobe Illustrator  |
 
-### Bolsistas
+### Bolsistas R-129
 
 | Bolsista                        | Matrícula | PC       |
 |---------------------------------|-----------|----------|
