@@ -1,4 +1,4 @@
-# Laboratório S-212
+# Laboratórios
 
 Ramal: 484 - Bruno
 VPN se for WIFI
@@ -11,9 +11,11 @@ https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 ![WakeLan](WakeLan.png)  
 !RD_CFG](RD_CFG.png)  
 
-## PCs
+## Laboratório S-212
 
-| PCs     | Coluna2             | Softwares               |
+### PCs
+
+| PCs     | Mac Adress          | Softwares               |
 |---------|---------------------|-------------------------|
 | MC-5810 | 74-56-3C-F2-C3-FE   | Unity 6 .. .29          |
 | MC-5811 | 74-56-3C-F2-C4-8B   | Unity 6 .. .29          |
@@ -25,7 +27,7 @@ https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 | MC-5831 | 74-56-3C-F2-C4-82   | Unity 6 .. .29          |
 | MC-5833 | 74-56-3C-F2-C0-9B   | Unity 6 .. .28          |
 
-## Bolsistas
+### Bolsistas
 
 | Bolsista                             | Matrícula | PC       |
 |--------------------------------------|-----------|----------|
@@ -37,3 +39,21 @@ https://apps.microsoft.com/detail/9nblggh51pb3?hl=pt-BR&gl=BR
 | Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Cauã Fernando Bertolini              | 225109    | MC-5824  |
 | Vinícius do Espírito Santo Lopes     | 227193    | MC-5827  |
+
+## Laboratório R-129
+
+### PCs com Adobe Illustrator
+
+| PC       | Software           |
+|----------|--------------------|
+| MC-5380  | Adobe Illustrator  |
+| MC-5383  | Adobe Illustrator  |
+| MC-5385  | Adobe Illustrator  |
+
+### Bolsistas
+
+| Bolsista                        | Matrícula | PC       |
+|---------------------------------|-----------|----------|
+| Ayumi Takehara Lewandowski      | 193150    | MC-5383  |
+| Caroline Lucini                 | 219874    | MC-5385  |
+| Lucas Hong Lae Son              | 207629    | MC-5380  |
