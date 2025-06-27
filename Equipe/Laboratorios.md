@@ -46,11 +46,13 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 |--------------------------------------|-----------|----------|
 | Bernardo Chiamolera                  | 216991    | MC-5810  |
 | Bruno Fischer Ferreira Santos        | 182004    | MC-5831  |
-| Dalton Solano dos Reis               | 7830      | MC-5833  |
-| Matheus Gamba De Oliveira            | 216209    | MC-5811  |
-| Gabriel Jorge Utyama de Carvalho     | 213724    | MC-5818  |
-| Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Cauã Fernando Bertolini              | 225109    | MC-5824  |
+| Dalton Solano dos Reis               | 7830      | MC-5833  |
+| Gabriel Jorge Utyama de Carvalho     | 213724    | MC-5818  |
+| João Paulo de Lima                   | 220263    |          |
+| Mateus Dassoler Spezia               | 221505    |          |
+| Matheus Gamba De Oliveira            | 216209    | MC-5811  |
+| Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Vinícius do Espírito Santo Lopes     | 227193    | MC-5827  |
 
 ## Laboratório R-129
