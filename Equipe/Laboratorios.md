@@ -55,6 +55,28 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Vinícius do Espírito Santo Lopes     | 227193    | MC-5827  |
 
+## Laboratório S-409
+
+### PCs
+
+| PCs     | Mac Adress          | Softwares               |
+|---------|---------------------|-------------------------|
+| MC-5681 |                     | Android Studio          |
+| MC-5683 |                     | Android Studio          |
+| MC-5685 |                     | Android Studio          |
+| MC-5687 |                     | Android Studio          |
+| MC-5688 |                     | Android Studio          |
+
+### Bolsistas S-409
+
+| Bolsista                             | Matrícula | PC       |
+|--------------------------------------|-----------|----------|
+| João Paulo de Lima                   |           | MC-5681  |
+| Cauã Fernando Bertolini              |           | MC-5683  |
+| Matheus Ohrt Perazzo Leite Galvão    |           | MC-5685  |
+| Ana Clara Lopes Hostins              |           | MC-5687  |
+| Gustavo Henrique Luiz                |           | MC-5688  |
+
 ## Laboratório R-129
 
 ### PCs com Adobe Illustrator
@@ -64,14 +86,6 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | MC-5380  | Adobe Illustrator  |
 | MC-5383  | Adobe Illustrator  |
 | MC-5385  | Adobe Illustrator  |
-
-## Laboratório S-409
-
-### PCs
-
-| PCs     | Mac Adress          | Softwares               |
-|---------|---------------------|-------------------------|
-| MC-5810 | 74-56-3C-F2-C3-FE   | Unity 6 .. .29          |
 
 
 ### Bolsistas R-129
