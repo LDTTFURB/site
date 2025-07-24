@@ -46,12 +46,36 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 |--------------------------------------|-----------|----------|
 | Bernardo Chiamolera                  | 216991    | MC-5810  |
 | Bruno Fischer Ferreira Santos        | 182004    | MC-5831  |
-| Dalton Solano dos Reis               | 7830      | MC-5833  |
-| Matheus Gamba De Oliveira            | 216209    | MC-5811  |
-| Gabriel Jorge Utyama de Carvalho     | 213724    | MC-5818  |
-| Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Cauã Fernando Bertolini              | 225109    | MC-5824  |
+| Dalton Solano dos Reis               | 7830      | MC-5833  |
+| Gabriel Jorge Utyama de Carvalho     | 213724    | MC-5818  |
+| João Paulo de Lima                   | 220263    |          |
+| Mateus Dassoler Spezia               | 221505    |          |
+| Matheus Gamba De Oliveira            | 216209    | MC-5811  |
+| Venâncio Domingos Cassua             | 223190    | MC-5820  |
 | Vinícius do Espírito Santo Lopes     | 227193    | MC-5827  |
+
+## Laboratório S-409
+
+### PCs
+
+| PCs     | Mac Adress          | Softwares               |
+|---------|---------------------|-------------------------|
+| MC-5681 |                     | Android Studio          |
+| MC-5683 |                     | Android Studio          |
+| MC-5685 |                     | Android Studio          |
+| MC-5687 |                     | Android Studio          |
+| MC-5688 |                     | Android Studio          |
+
+### Bolsistas S-409
+
+| Bolsista                             | Matrícula | PC       |
+|--------------------------------------|-----------|----------|
+| João Paulo de Lima                   |           | MC-5681  |
+| Cauã Fernando Bertolini              |           | MC-5683  |
+| Matheus Ohrt Perazzo Leite Galvão    |           | MC-5685  |
+| Ana Clara Lopes Hostins              |           | MC-5687  |
+| Gustavo Henrique Luiz                |           | MC-5688  |
 
 ## Laboratório R-129
 
@@ -62,6 +86,7 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | MC-5380  | Adobe Illustrator  |
 | MC-5383  | Adobe Illustrator  |
 | MC-5385  | Adobe Illustrator  |
+
 
 ### Bolsistas R-129
 
