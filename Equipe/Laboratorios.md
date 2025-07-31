@@ -34,7 +34,7 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | MC-5811 | 74-56-3C-F2-C4-8B   | Unity 6 .. .29          |
 | MC-5818 | 74-56-3C-F2-C4-1A   | Unity 6 .. .29 Insta360 |
 | MC-5820 | 74-56-3C-F2-C0-95   | Unity 6 .. .29          |
-| MC-5821 | 74-56-3C-F2-C0-8D   | Unity 6 .. .28          |
+| MC-5821 | 74-56-3C-F2-C0-8D   | Unity 6 .. .28 Sketch   |
 | MC-5824 | 74-56-3C-F2-C4-1D   | Unity 6 .. .29          |
 | MC-5827 | 74-56-3C-F2-C3-A3   | Unity 6 .. .29          |
 | MC-5831 | 74-56-3C-F2-C4-82   | Unity 6 .. .29          |
@@ -49,7 +49,7 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | Cauã Fernando Bertolini              | 225109    | MC-5824  |
 | Dalton Solano dos Reis               | 7830      | MC-5833  |
 | Gabriel Jorge Utyama de Carvalho     | 213724    | MC-5818  |
-| João Paulo de Lima                   | 220263    |          |
+| João Paulo de Lima                   | 220263    | MC-5821  |
 | Mateus Dassoler Spezia               | 221505    |          |
 | Matheus Gamba De Oliveira            | 216209    | MC-5811  |
 | Venâncio Domingos Cassua             | 223190    | MC-5820  |
