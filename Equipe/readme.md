@@ -16,7 +16,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 |  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|-------------------------|---------|------|------------------------|---------------|
 | <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
-<!--| <div align="center"><img width="80" src="./_fotos/bol_CaioAbraaoManarim.png" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      | -->
+| <div align="center"><img width="80" src="./_fotos/bol_CaioAbraaoManarim.png" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |   
 |<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
