@@ -14,7 +14,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 
   
 |  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|-------------------------|---------|------|------------------------|---------------|
+|--|-------------------------|---------|--------|------------------------|---------------|
 | <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
@@ -27,7 +27,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
+|--|------------------------|---------|--------|------------------------|---------------|
 |<div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" />  | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" />  | Cauã Fernando Bertolini      |         |       | Seg a Sex: 12:00-16:00 | 20 horas|
 |<div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" />  | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
@@ -41,7 +41,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 <img src="./_fotos/prof_Luciana.png" width="100">
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
+|--|------------------------|---------|--------|------------------------|---------------|
 |<div align="center"><img width="80" src="./_fotos/bol_AyumiTakeharaLewandowski.png" />   | Ayumi Takehara Lewandowski|    |       | Seg a Sex: 13:30-17:30  / 14:00-18:00 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_CarolineLucini.png" />   | Caroline Lucini|         |       | Seg a Sex: 12:40-16:40 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_FelipeSoares.png" />  | Felipe Soares  |         |       | Seg a Qui: 13:00-18:00 | 20 horas |
@@ -59,7 +59,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 <img src="./_fotos/prof_Mauricio.png" width="100">
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|-------|------------------------|---------------|
+|--|------------------------|---------|--------|------------------------|---------------|
 |<div align="center"><img width="80" src="./_fotos/bol_GabrielJorgeUtyamaDeCarvalho.png" />  | Gabriel Jorge Utyama de Carvalho|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Projeto_FlorestaSC_2024" target="_blank">Projeto_FlorestaSC_2024</a></br><a href="https://github.com/LDTTFURB/Projeto_FFM_2023_Consequencias" target="_blank">Projeto_FFM_2023_Consequencias</a></details>    | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_MatheusGambaDeOliveira.png" />  | Matheus Gamba de Oliveira |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_LucasHongLaeSon.png" /></div>  | Lucas Hong Lae Son  |         |      | remoto | 20 horas |
@@ -71,6 +71,6 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 
 
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
+|--|------------------------|---------|--------|------------------------|---------------|
 |<div align="center"><img width="80" src="./_fotos/bol_GustavoAlexandreFernandes.png" />  | Gustavo Alexandre Fernandes |         |      |Seg a Qui: 16:00-21:00  | 20 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_ThierryHenryZancanaroDaSilva.jpeg" /> </div> | Thierry Henry Zancanaro da Silva |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>   | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
