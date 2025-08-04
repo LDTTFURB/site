@@ -15,7 +15,7 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
   
 |  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|-------------------------|---------|--------|------------------------|---------------|
-| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00; Ter: 09:00-11:00 / 12:30-18:00;   | 30 horas      |
+| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00 \Ter: 09:00-11:00 / 12:30-18:00   | 30 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      | Seg a Qui: 12:00-17:00  | 20 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
 |<div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
@@ -29,9 +29,9 @@ Sistema de Registro de Atividades do Bolsista - DAEX/FURB
 |  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|------------------------|---------|--------|------------------------|---------------|
 |<div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" />  | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" />  | Cauã Fernando Bertolini      |         |       | Seg Qua e Qui: 12:00-16:30; Ter 7:30-13:00; Sex 12:00-14:00 | 20 horas |
+|<div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" />  | Cauã Fernando Bertolini      |         |       | Seg Qua e Qui: 12:00-16:30\ Ter 7:30-13:00\ Sex 12:00-14:00 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" />  | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
-|<div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" />  | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
+|<div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" />  | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Seg a Qui: 14:00-18:00 \Sex: 6:40-10:40 | 20 horas |
 |<div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.png" />  | João Paulo de Lima |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>     |Seg a Sex: 13:00-19:00  | 30 horas      |
 | | Mateus Dassoler Spezia |         |       | | Seg a Sex: 13:15-17:15 | 20 horas | 
 <!--|<div align="center"><img width="80" src="./_fotos/bol_ViniciusDoEspiritoSantoLopes.png" />  | Vinícius do Espírito Santo Lopes |         |      | Seg a Qui: 14:00-19:00 | 20 horas | -->
