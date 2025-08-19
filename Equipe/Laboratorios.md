@@ -28,17 +28,17 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 
 ### PCs
 
-| PCs     | Mac Adress          | Softwares               |
-|---------|---------------------|-------------------------|
-| MC-5810 | 74-56-3C-F2-C3-FE   | Unity 6 .. .29          |
-| MC-5811 | 74-56-3C-F2-C4-8B   | Unity 6 .. .29          |
-| MC-5818 | 74-56-3C-F2-C4-1A   | Unity 6 .. .29 Insta360 |
-| MC-5820 | 74-56-3C-F2-C0-95   | Unity 6 .. .29          |
-| MC-5821 | 74-56-3C-F2-C0-8D   | Unity 6 .. .28 Sketch   |
-| MC-5824 | 74-56-3C-F2-C4-1D   | Unity 6 .. .29          |
-| MC-5827 | 74-56-3C-F2-C3-A3   | Unity 6 .. .29          |
-| MC-5831 | 74-56-3C-F2-C4-82   | Unity 6 .. .29          |
-| MC-5833 | 74-56-3C-F2-C0-9B   | Unity 6 .. .28          |
+| PCs     | Mac Adress          | Software       | Software |
+|---------|---------------------|----------------|          |
+| MC-5810 | 74-56-3C-F2-C3-FE   | Unity 6 .. .29 |          |
+| MC-5811 | 74-56-3C-F2-C4-8B   | Unity 6 .. .29 |          |
+| MC-5818 | 74-56-3C-F2-C4-1A   | Unity 6 .. .29 | Insta360 |
+| MC-5820 | 74-56-3C-F2-C0-95   | Unity 6 .. .29 |          |
+| MC-5821 | 74-56-3C-F2-C0-8D   | Unity 6 .. .28 | Sketch   |
+| MC-5824 | 74-56-3C-F2-C4-1D   | Unity 6 .. .29 |          |
+| MC-5827 | 74-56-3C-F2-C3-A3   | Unity 6 .. .29 |          |
+| MC-5831 | 74-56-3C-F2-C4-82   | Unity 6 .. .29 |          |
+| MC-5833 | 74-56-3C-F2-C0-9B   | Unity 6 .. .28 |          |
 
 ### Bolsistas S-212
 
@@ -93,6 +93,5 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 
 | Bolsista                        | Matrícula | PC       |
 |---------------------------------|-----------|----------|
-| Ayumi Takehara Lewandowski      | 193150    | MC-5383  |
-| Caroline Lucini                 | 219874    | MC-5385  |
-| Lucas Hong Lae Son              | 207629    | MC-5380  |
+| Ayumi Takehara Lewandowski      | 193150    | MC-6062  |
+| Caroline Lucini                 | 219874    | MC-6054  |
