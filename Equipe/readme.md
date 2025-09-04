@@ -5,14 +5,61 @@
 <!-- |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
 -->
 
-Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
+## Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
 <https://www.furb.br/ldtt/daex/>  
 
+## 🧑‍🏫 Relação Professor e Bolsistas
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="./_fotos/prof_Andreza.png" width="80" style="border-radius:50%;" />
+    </td>
+    <td>
+      <b>Andreza Sartori</b><br>
+      <sub>Pesquisa em Inteligência Artificial</sub>
+    </td>
+  </tr>
+</table>
+
+### 👩‍🎓 Bolsistas
+
+| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins | Carga Horária: 30h |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 19:00 |
+| **Ter** | 09:00 - 11:00 | 12:30 - 18:00 |
+| **Qua** | Não | 12:00 - 19:00 |
+| **Qui** | Não | 12:00 - 19:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" /> | Gustavo Henrique Luiz | Carga Horária: 20h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 17:00 |
+| **Ter** | 7:30 - 12:30 | Não |
+| **Qua** | Não | 12:00 - 17:00 |
+| **Qui** | Não | 12:00 - 17:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" /> | Larissa Zózimo Antunes | Carga Horária: 20h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00h - 18h30 |
+| **Ter** | Não | 13h30 - 18h15 |
+| **Qua** | Não | 13h30 - 18h30 |
+| **Qui** | Não | 14:00h - 18h15 |
+| **Sex** | Não | Não |
+
+|  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
+|--|-------------------------|---------|--------|------------------------|---------------|
+| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00 \Ter: 09:00-11:00 / 12:30-18:00   | 30 horas      |
+|<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      | Seg a Qui: 12:00-17:00  | 20 horas      |
+|<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
+|<div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
 ## Andreza
 
 <img src="./_fotos/prof_Andreza.png" width="100">
 
-  
+
 |  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
 |--|-------------------------|---------|--------|------------------------|---------------|
 | <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00 \Ter: 09:00-11:00 / 12:30-18:00   | 30 horas      |
