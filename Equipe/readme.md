@@ -5,11 +5,11 @@
 <!-- |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
 -->
 
-## Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
+# Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
 <https://www.furb.br/ldtt/daex/>  
 
-## 🧑‍🏫 Relação Professor e Bolsistas
-
+## Relação Professor e Bolsistas
+### 🧑‍🏫 Professor
 <table>
   <tr>
     <td width="100" align="center">
@@ -57,6 +57,7 @@
 | **Qui** | 7:00 - 12:00  | 13:30 - 18:30 |
 | **Sex** | Não | Não |
 
+### 🧑‍🏫 Professor
 <table>
   <tr>
     <td width="100" align="center">
@@ -68,6 +69,8 @@
     </td>
   </tr>
 </table>
+
+### 👩‍🎓 Bolsistas
 
 | <div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" /> | Bernardo Chiamolera | Carga Horária: 20h |
 |--|---------------------------|-----|
