@@ -48,41 +48,77 @@
 | **Qua** | Não | 13h30 - 18h30 |
 | **Qui** | Não | 14:00h - 18h15 |
 | **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti | Carga Horária: 40h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Ter** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Qua** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Qui** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Sex** | Não | Não |
 
-|  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|-------------------------|---------|--------|------------------------|---------------|
-| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00 \Ter: 09:00-11:00 / 12:30-18:00   | 30 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      | Seg a Qui: 12:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
-## Andreza
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="./_fotos/prof_Dalton.png" width="100">
+    </td>
+    <td>
+      <b>Dalton Solano dos Reis</b><br>
+      <sub>Pesquisa em Unity</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="./_fotos/prof_Andreza.png" width="100">
+| <div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" /> | Bernardo Chiamolera | Carga Horária: 20h |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:00 - 17:00|
+| **Ter** | Não | 13:00 - 17:00 |
+| **Qua** | Não | 13:00 - 17:00 |
+| **Qui** | Não | 13:00 - 17:00 |
+| **Sex** | Não | 13:00 - 17:00 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" /> | Cauã Fernando Bertolini | Carga Horária: 40h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 21:00|
+| **Ter** | 7:30 - 12:00 | 13:00 - 20:00 |
+| **Qua** | Não | 12:00 - 20:30 |
+| **Qui** | Não | 12:00 - 20:00 |
+| **Sex** | Não | 14:00 - 17:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" /> | Cesar Augusto Floriani | Carga Horária: 20h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | Remoto |
+| **Ter** | Não | Remoto |
+| **Qua** | Não | 12:00 - 16:00 |
+| **Qui** | Não | Remoto |
+| **Sex** | Não | Remoto |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" /> | Fabian Formento | Carga Horária: 20h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00 - 18:00 |
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | Não | 6:40 - 10:40 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.png" /> | João Paulo de Lima | Carga Horária: 30h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | 7:30 - 13:30 | Não |
+| **Ter** | 7:30 - 13:30 | Não |
+| **Qua** | Não | 13:00 - 19:00 |
+| **Qui** | 7:30 - 13:30 | Não |
+| **Sex** | 7:30 - 13:30 | Não |
+| | |
+|  | Mateus Dassoler Spezia | Carga Horária: 20h |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:15 - 17:15 |
+| **Ter** | Não | 13:15 - 17:15 |
+| **Qua** | Não | 13:15 - 17:15 |
+| **Qui** | Não | 13:15 - 17:15 |
+| **Sex** | Não | 13:15 - 17:15 |
+| | |
 
-
-|  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|-------------------------|---------|--------|------------------------|---------------|
-| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | Ana Clara Lopes Hostins |         |      | Seg Qua e Qui: 12:00-19:00 \Ter: 09:00-11:00 / 12:30-18:00   | 30 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" />  | Gustavo Henrique Luiz |         |      | Seg a Qui: 12:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
-|<div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
-<!--| <div align="center"><img width="80" src="./_fotos/bol_CaioAbraaoManarim.png" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      | -->  
-
-## [Dalton Solano dos Reis](https://dalton-reis.github.io/dalton-reis/)
-
-<img src="./_fotos/prof_Dalton.png" width="100">
-
-
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|--------|------------------------|---------------|
-|<div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" />  | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" />  | Cauã Fernando Bertolini      |         |       | Seg Qua e Qui: 12:00-16:30\ Ter 7:30-13:00\ Sex 12:00-14:00 | 20 horas |
-|<div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" />  | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
-|<div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" />  | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Seg a Qui: 14:00-18:00 \Sex: 6:40-10:40 | 20 horas |
-|<div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.png" />  | João Paulo de Lima |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>     |Seg a Sex: 13:00-19:00  | 30 horas      |
-| | Mateus Dassoler Spezia |         |       | Seg a Sex: 13:15-17:15 | 20 horas | 
-<!--|<div align="center"><img width="80" src="./_fotos/bol_ViniciusDoEspiritoSantoLopes.png" />  | Vinícius do Espírito Santo Lopes |         |      | Seg a Qui: 14:00-19:00 | 20 horas | -->
-<!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
 
 ## Luciana
 
