@@ -229,7 +229,7 @@
     </td>
     <td>
       <b>Mauricio</b><br>
-      <sub>Coordenadora do LDTT</sub>
+      <sub>Pesquisa</sub>
     </td>
   </tr>
 </table>
