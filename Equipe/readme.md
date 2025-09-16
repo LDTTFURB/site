@@ -5,72 +5,302 @@
 <!-- |<div align="center"><img width="80" src="https://github.com/user-attachments/assets/cd135ab5-7adc-4154-b834-bbb8ea9852d6" />  | Bruno Fischer Ferreira Santos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Qui: 14:00-18:00 | 4 horas|
 -->
 
-Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
+# Sistema de Registro de Atividades do Bolsista - DAEX/FURB  
 <https://www.furb.br/ldtt/daex/>  
 
-## Andreza
+## Relação Professor e Bolsistas
+### 🧑‍🏫 Professor
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="./_fotos/prof_Andreza.png" width="80" style="border-radius:50%;" />
+    </td>
+    <td>
+      <b>Andreza Sartori</b><br>
+      <sub>Pesquisa em Inteligência Artificial</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="./prof_Andreza.png" width="100">
+### 👩‍🎓 Bolsistas
 
-  
-|  | Bolsista                | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|-------------------------|---------|------|------------------------|---------------|
-| <div align="center"><img width="80" src="https://github.com/user-attachments/assets/800993e1-af73-464b-9094-7ce04a8207bb" /></div> | Ana Clara Lopes Hostins |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
-| <div align="center"><img width="80" src="https://github.com/user-attachments/assets/cc94e81e-b62d-4411-8c77-fc7afd8a6f48" /> | Caio Abraão Manarim	    |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/319bc18a-a317-499d-88ba-7e0a747193f4" />  | Gustavo Henrique Luiz |         |      |Seg a Qui: 12:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e530b5be-5c44-46eb-8130-aaabeee1123b" />  | Larissa Zózimo Antunes  |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/reciclou" target="_blank">reciclou</a></details> |Seg a Qui: 13:30-17:30  | 16 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/10a6c26d-e56c-436e-bc79-288890426583" />  | Marlon Sbardelatti      |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>      |Seg a Qui: 13:30-18:30  | 20 horas      |
+| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | **Ana Clara Lopes Hostins** | **Carga Horária: 30h** |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 19:00 |
+| **Ter** | 09:00 - 11:00 | 12:30 - 18:00 |
+| **Qua** | Não | 12:00 - 19:00 |
+| **Qui** | Não | 12:00 - 19:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" /> | **Gustavo Henrique Luiz** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 17:00 |
+| **Ter** | 7:30 - 12:30 | Não |
+| **Qua** | Não | 12:00 - 17:00 |
+| **Qui** | Não | 12:00 - 17:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_LarissaZozimoAntunes.png" /> | **Larissa Zózimo Antunes** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00h - 18h30 |
+| **Ter** | Não | 13h30 - 18h15 |
+| **Qua** | Não | 13h30 - 18h30 |
+| **Qui** | Não | 14:00h - 18h15 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | **Marlon Sbardelatti** | **Carga Horária: 40h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Ter** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Qua** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Qui** | 7:00 - 12:00  | 13:30 - 18:30 |
+| **Sex** | Não | Não |
 
-## [Dalton Solano dos Reis](https://dalton-reis.github.io/dalton-reis/)
+### 🧑‍🏫 Professor
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="./_fotos/prof_Dalton.png" width="100">
+    </td>
+    <td>
+      <b>Dalton Solano dos Reis</b><br>
+      <sub>Pesquisa em Unity</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="./prof_Dalton.png" width="100">
+### 👩‍🎓 Bolsistas
 
+| <div align="center"><img width="80" src="./_fotos/bol_BernardoChiamolera.png" /> | **Bernardo Chiamolera** | **Carga Horária: 20h** |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:00 - 17:00|
+| **Ter** | Não | 13:00 - 17:00 |
+| **Qua** | Não | 13:00 - 17:00 |
+| **Qui** | Não | 13:00 - 17:00 |
+| **Sex** | Não | 13:00 - 17:00 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_CauaFernandoBertolini.png" /> | **Cauã Fernando Bertolini** | **Carga Horária: 40h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 21:00|
+| **Ter** | 7:30 - 12:00 | 13:00 - 20:00 |
+| **Qua** | Não | 12:00 - 20:30 |
+| **Qui** | Não | 12:00 - 20:00 |
+| **Sex** | Não | 14:00 - 17:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" /> | **Cesar Augusto Floriani** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | Remoto |
+| **Ter** | Não | Remoto |
+| **Qua** | Não | 12:00 - 16:00 |
+| **Qui** | Não | Remoto |
+| **Sex** | Não | Remoto |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" /> | **Fabian Formento** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00 - 18:00 |
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | Não | 6:40 - 10:40 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.png" /> | **João Paulo de Lima** | **Carga Horária: 30h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | 7:30 - 13:30 | Não |
+| **Ter** | 7:30 - 13:30 | Não |
+| **Qua** | Não | 13:00 - 19:00 |
+| **Qui** | 7:30 - 13:30 | Não |
+| **Sex** | 7:30 - 13:30 | Não |
+| | |
+|  | **Mateus Dassoler Spezia** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:15 - 17:15 |
+| **Ter** | Não | 13:15 - 17:15 |
+| **Qua** | Não | 13:15 - 17:15 |
+| **Qui** | Não | 13:15 - 17:15 |
+| **Sex** | Não | 13:15 - 17:15 |
+| | |
 
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/00a61deb-106f-44bd-a977-274fa65f6321" />  | Bernardo Chiamolera    |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br> <a href="https://github.com/LDTTFURB/FURBOT_Gerador" target="_blank">Furbot_Gerador</a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/14:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/223dcad0-4e0f-4230-aa8d-6170ffe58317" />  | Cauã Fernando Bertolini      |         |       | Seg a Sex: 12:00-16:00 | 20 horas|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/ff547974-a92d-4962-8127-24c3f49aacc2" />  | Cesar Augusto Floriani       |         |       | Qua: 12:00-16:00 | 4 horas|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/e3843e24-12ca-410b-a8f5-cf2da58ffb20" />  | Fabian Formento|         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details> | Seg a Qui: 14:00-18:00 e Sex: 6:40-10:40 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/5ff39aad-624c-4507-b6b0-dad016bc8249" />  | João Paulo de Lima |         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">bugio</a></details>     |Seg a Sex: 13:00-17:00  | 20 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/2c47d696-2a7e-4511-bf03-84e18763f485" />  | Vinícius do Espírito Santo Lopes |         |      | Seg a Qui: 14:00-19:00 | 20 horas |
-<!--| João Gabriel Soares Lavina | Seg a Qui: 13:30-17:30 e Sex (remoto): 13:30-17:30 | 20 horas | -->
+### 🧑‍🏫 Professor
 
-## Luciana
+<table>
+  <tr>
+    <td width="100" align="center">
+       <img src="./_fotos/prof_Luciana.png" width="100">
+    </td>
+    <td>
+      <b>Luciana Pereira de Araújo Kohler</b><br>
+      <sub>Coordenadora do LDTT</sub>
+    </td>
+  </tr>
+</table>
 
-<img src="./prof_Luciana.png" width="100">
+### 👩‍🎓 Bolsistas
 
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/3b99cf5c-36b7-4229-bcf7-385c73667067" />   | Ayumi Takehara Lewandowski|    |       | Seg a Sex: 13:30-17:30  / 14:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/5a1c6123-b068-42c8-8fa0-c2cddfbfbeb4" />   | Caroline Lucini|         |       | Seg a Sex: 12:40-16:40 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/4e4a385e-260a-45ea-8426-6f0c9dbf6eb1" />  | Felipe Soares  |         |       | Seg a Qui: 13:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/311f9300-63a2-41e8-a577-acf00ab00e21" />  | Isac Marlei Vicente Custódio  |         |       | Seg a Qui: 13:00-18:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/f1c8f42e-25e3-468f-849e-31bb53a89a23" />  | João Eduardo Cappellari Trevisol |         |       | Seg a Qui: 12:00-17:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/5c13043f-174b-4cc7-a9d3-cfac5d33c9dd" />  | Leonardo Linhares Silva|         | <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a><br><a href="https://github.com/LDTTFURB/FurbotUnity" target="_blank">FurbotUnity</a><br><a href="https://github.com/LDTTFURB/ldtt-servidor" target="_blank">ldtt-servidor</a><br><a href="https://github.com/LDTTFURB/LDTT_SuperTrunfoElementar" target="_blank">LDTT_SuperTrunfoElementar</a><br><a href="https://github.com/LDTTFURB/site" target="_blank">site</a><br><a href="https://github.com/LDTTFURB/site_privado" target="_blank">site_privado</a></details> |  Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/ec3edaab-8d71-4a4f-b69f-6c3c74c495ce" />  | Luiz Henrique Martendal |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a> <br><a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br><a href="https://github.com/LDTTFURB/ExpoFritz" target="_blank">ExpoFritz</a><br><a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br><a href="https://github.com/LDTTFURB/ecosol-website" target="_blank">ecosol-website</a><br><a href="https://github.com/LDTTFURB/ecosol-service" target="_blank">ecosol-service</a></details>    | remoto | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/7c81e036-2ea9-4152-afbc-9cff9462c896" />  | Maria Luísa Campestrini |         |  | Ter: 14:30-18:30 e Qua a Qui: 14:00-18:00 | 12 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/1a20d4ee-91de-4969-b553-f060a09ca94b" />  | Matheus Ohrt Perazzo Leite Galvão |         |       | Seg a Qui: 12:00-17:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/39efe644-e01b-4a8b-ba89-d93eddeaea3c" />  | Venâncio Domingos Cassua|     |       | Seg a Qui: 14:00-18:00 e Sex: 13:00-17:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/b2efb999-5c5b-4946-a50a-83be35dd5f3a" />  | Vinícius Estrázulas Mattos|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/bugio" target="_blank">Bugio</a><br>   <a href="https://github.com/LDTTFURB/biblioteca-habitat" target="_blank">Blibioteca-Habitat</a><br> <a href="https://github.com/LDTTFURB/daex-servidor" target="_blank">DAEX-servidor</a><br> <a href="https://github.com/LDTTFURB/furbot-servidor" target="_blank">Furbot-Servidor</a><br> </a></details>  | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00 | 20 horas |
+| <img width="80" src="./_fotos/bol_AyumiTakeharaLewandowski.png"/>  | **Ayumi Takehara Lewandowski** | **Carga Horária: 20h** |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:30 - 17:30|
+| **Ter** | Não | 13:30 - 17:30 |
+| **Qua** | Não | 13:30 - 17:30 |
+| **Qui** | Não | 13:30 - 17:30 |
+| **Sex** | Não | 13:30 - 17:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_CarolineLucini.png" />  | **Caroline Lucini** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:30 - 16:30 |
+| **Ter** | Não | 12:30 - 16:30 |
+| **Qua** | Não | 12:30 - 16:30 |
+| **Qui** | Não | 12:30 - 16:30 |
+| **Sex** | Não | 12:30 - 16:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_FelipeSoares.png" />  | **Felipe Soares** | **Carga Horária: 40h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 20:00 |
+| **Ter** | 7:30 - 11:30 | 12:00 - 17:00 |
+| **Qua** | Não | 12:00 - 20:00 |
+| **Qui** | Não | 12:00 - 20:00 |
+| **Sex** | Não | 12:00 - 16:00 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_IsacMarleiVicenteCustodio.png" />  | **Isac Marlei Vicente Custódio** | **Carga Horária: 30h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 18:00 |
+| **Ter** | 7:30 - 11:30 | 12:00 - 18:00 |
+| **Qua** | Não | 12:00 - 18:00 |
+| **Qui** | Não | 12:00 - 18:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_LeonardoLinharesSilva.jpeg" />  | **Leonardo Linhares Silva** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 18:00 |
+| **Ter** | Não | 12:00 - 18:00 |
+| **Qua** | Não | 12:00 - 18:00 |
+| **Qui** | Não | 12:00 - 18:00 |
+| **Sex** | 8:00 - 12:00 | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_LuizHenriqueMartendal.png" />  | **Luiz Henrique Martendal** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | Remoto |
+| **Ter** | Não | Remoto |
+| **Qua** | Não | Remoto |
+| **Qui** | Não | Remoto |
+| **Sex** | Não | Remoto |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_MariaLuisaCampestrini.jpeg" /> | **Maria Luísa Campestrini** | **Carga Horária: 12h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | Não |
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_MatheusOhrtPerazzoLeiteGalvao.jpeg" /> | **Matheus Ohrt Perazzo Leite Galvão** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:00 - 17:00 |
+| **Ter** | Não | 12:00 - 17:00 |
+| **Qua** | Não | Não |
+| **Qui** | Não | 12:00 - 17:00 |
+| **Sex** | Não | 12:00 - 17:00 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_VenancioDomingosCassua.png" /> | **Venâncio Domingos Cassua** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:00 - 18:00 |
+| **Ter** | Não | 13:00 - 18:00 |
+| **Qua** | Não | 13:00 - 18:00 |
+| **Qui** | Não | 13:00 - 18:00 |
+| **Sex** | Não | Não |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_ViniciusEstrazulasMattos.png" /> | **Vinícius Estrázulas Mattos** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00 - 18:00 |
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | Não | 14:00 - 18:00 |
+| | |
 
-## Mauricio
+### 🧑‍🏫 Professor
 
-<img src="./prof_Mauricio.png" width="100">
+<table>
+  <tr>
+    <td width="100" align="center">
+       <img src="./_fotos/prof_Mauricio.png" width="100">
+    </td>
+    <td>
+      <b>Mauricio</b><br>
+      <sub>Pesquisa</sub>
+    </td>
+  </tr>
+</table>
 
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|-------|------------------------|---------------|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/d9ed0367-cf7f-4b2c-b03b-20bfcec53b23" />  | Gabriel Jorge Utyama de Carvalho|         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Projeto_FlorestaSC_2024" target="_blank">Projeto_FlorestaSC_2024</a></br><a href="https://github.com/LDTTFURB/Projeto_FFM_2023_Consequencias" target="_blank">Projeto_FFM_2023_Consequencias</a></details>    | Seg/Qui: 12:00-18:00 e Sex: 7:00-13:00/12:00-18:00 | 30 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/18a77d5d-92cf-425a-8a86-72f8db9c9dd9" />  | Matheus Gamba de Oliveira |         |<details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>      | Seg a Qui: 14:00-18:00 e Sex: 8:00-12:00/11:00-15:00 | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/b1bb5c48-ee22-4370-b405-6a08848530f5" /></div>  | Lucas Hong Lae Son  |         |      | remoto | 20 horas |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/7e478634-b582-4ff8-8e86-80c55af88d72" /></div>  | Nando Matheus Rocha |         |      | remoto | 20 horas |
+### 👩‍🎓 Bolsistas
 
-## Miguel
+| <div align="center"><img width="80" src="./_fotos/bol_GabrielJorgeUtyamaDeCarvalho.png" /> | **Gabriel Jorge Utyama de Carvalho** | **Carga Horária: 16h** |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 12:30 - 16:30|
+| **Ter** | Não | 12:30 - 16:30 |
+| **Qua** | Não | Não |
+| **Qui** | Não | 12:30 - 16:30 |
+| **Sex** | Não | 12:30 - 16:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_MatheusGambaDeOliveira.png" /> | **Matheus Gamba de Oliveira** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00 - 18:00|
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | Não | 14:00 - 18:00 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_LucasHongLaeSon.png" /></div> | **Lucas Hong Lae Son** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:00 - 17:00|
+| **Ter** | Não | 13:00 - 17:00 |
+| **Qua** | Não | 13:00 - 17:00 |
+| **Qui** | Não | Remoto |
+| **Sex** | Não | Remoto |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_NandoMatheusRocha.jpeg" /></div> | **Nando Matheus Rocha** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | Remoto |
+| **Ter** | Não | Remoto |
+| **Qua** | Não | Remoto |
+| **Qui** | Não | Remoto |
+| **Sex** | Não | Remoto |
+| | |
 
-<img src="./prof_Miguel.png" width="100">
+### 🧑‍🏫 Professor
 
+<table>
+  <tr>
+    <td width="100" align="center">
+       <img src="./_fotos/prof_Miguel.png" width="100">
+    </td>
+    <td>
+      <b>Miguel</b><br>
+      <sub>Pesquisa em Eletrônica</sub>
+    </td>
+  </tr>
+</table>
 
-|  | Bolsista               | Projeto | GITs  | Dia/Horário            | Carga Horária |
-|--|------------------------|---------|------|------------------------|---------------|
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/1e7fc8af-6eef-40a3-bf0c-8aeb499d6fe5" />  | Gustavo Alexandre Fernandes |         |      |Seg a Qui: 16:00-21:00  | 20 horas      |
-|<div align="center"><img width="80" src="https://github.com/user-attachments/assets/66c1f08a-bbbb-4568-b153-d5866970c873" /> </div> | Thierry Henry Zancanaro da Silva |         |  <details><summary>Links</summary><a href="https://github.com/LDTTFURB/Furbot_ArenaJogos" target="_blank">Furbot_ArenaJogos</a></details>   | Seg a Qui: 14:00-18:00 e Sex: 7:30-11:30/14:00-18:00 | 20 horas |
+### 👩‍🎓 Bolsistas
+
+| <div align="center"><img width="80" src="./_fotos/bol_GustavoAlexandreFernandes.png" /> | **Gustavo Alexandre Fernandes** | **Carga Horária: 40h** |
+|--|---------------------------|-----|
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 11:30 -  19:30 |
+| **Ter** | 7:30 - 15:30 | Não |
+| **Qua** | Não | 11:30 -  19:30 |
+| **Qui** | Não | 11:30 -  19:30 |
+| **Sex** | Não | 11:30 -  19:30 |
+| | |
+| <div align="center"><img width="80" src="./_fotos/bol_ThierryHenryZancanaroDaSilva.jpeg" /> </div> | **Thierry Henry Zancanaro da Silva** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 14:00 - 18:00|
+| **Ter** | Não | 14:00 - 18:00 |
+| **Qua** | Não | 14:00 - 18:00 |
+| **Qui** | Não | 14:00 - 18:00 |
+| **Sex** | 7:30 - 11:30 | 14:00 - 18:00 |
+| | |
+
