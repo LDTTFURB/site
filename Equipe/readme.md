@@ -213,6 +213,7 @@
 ### 👩‍🎓 Bolsistas
 
 | <div align="center"><img width="80" src="./_fotos/bol_MatheusGambaDeOliveira.png" /> | **Matheus Gamba de Oliveira** | **Carga Horária: 20h** |
+|--|---------------------------|-----|
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 14:00 - 18:00|
 | **Ter** | Não | 14:00 - 18:00 |
