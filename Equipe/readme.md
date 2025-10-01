@@ -48,14 +48,6 @@
 | **Qua** | Não | 13h30 - 18h30 |
 | **Qui** | Não | 14:00h - 18h15 |
 | **Sex** | Não | Não |
-| | |
-| <div align="center"><img width="80" src="./_fotos/bol_MarlonSbardelatti.png" />  | **Marlon Sbardelatti** | **Carga Horária: 40h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | 7:00 - 12:00  | 13:30 - 18:30 |
-| **Ter** | 7:00 - 12:00  | 13:30 - 18:30 |
-| **Qua** | 7:00 - 12:00  | 13:30 - 18:30 |
-| **Qui** | 7:00 - 12:00  | 13:30 - 18:30 |
-| **Sex** | Não | Não |
 
 ### 🧑‍🏫 Professor
 <table>
@@ -88,14 +80,6 @@
 | **Qua** | Não | 12:00 - 20:30 |
 | **Qui** | Não | 12:00 - 20:00 |
 | **Sex** | Não | 14:00 - 17:30 |
-| | |
-| <div align="center"><img width="80" src="./_fotos/bol_CesarAugustoFloriani.png" /> | **Cesar Augusto Floriani** | **Carga Horária: 20h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | Remoto |
-| **Ter** | Não | Remoto |
-| **Qua** | Não | 12:00 - 16:00 |
-| **Qui** | Não | Remoto |
-| **Sex** | Não | Remoto |
 | | |
 | <div align="center"><img width="80" src="./_fotos/bol_FabianFormento.png" /> | **Fabian Formento** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
@@ -203,14 +187,6 @@
 | **Qui** | Não | 12:00 - 17:00 |
 | **Sex** | Não | 12:00 - 17:00 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_VenancioDomingosCassua.png" /> | **Venâncio Domingos Cassua** | **Carga Horária: 20h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 13:00 - 18:00 |
-| **Ter** | Não | 13:00 - 18:00 |
-| **Qua** | Não | 13:00 - 18:00 |
-| **Qui** | Não | 13:00 - 18:00 |
-| **Sex** | Não | Não |
-| | |
 | <div align="center"><img width="80" src="./_fotos/bol_ViniciusEstrazulasMattos.png" /> | **Vinícius Estrázulas Mattos** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 14:00 - 18:00 |
@@ -236,15 +212,6 @@
 
 ### 👩‍🎓 Bolsistas
 
-| <div align="center"><img width="80" src="./_fotos/bol_GabrielJorgeUtyamaDeCarvalho.png" /> | **Gabriel Jorge Utyama de Carvalho** | **Carga Horária: 16h** |
-|--|---------------------------|-----|
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 12:30 - 16:30|
-| **Ter** | Não | 12:30 - 16:30 |
-| **Qua** | Não | Não |
-| **Qui** | Não | 12:30 - 16:30 |
-| **Sex** | Não | 12:30 - 16:30 |
-| | |
 | <div align="center"><img width="80" src="./_fotos/bol_MatheusGambaDeOliveira.png" /> | **Matheus Gamba de Oliveira** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 14:00 - 18:00|
@@ -256,9 +223,9 @@
 | <div align="center"><img width="80" src="./_fotos/bol_LucasHongLaeSon.png" /></div> | **Lucas Hong Lae Son** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 13:00 - 17:00|
-| **Ter** | Não | 13:00 - 17:00 |
+| **Ter** | Não | Remoto |
 | **Qua** | Não | 13:00 - 17:00 |
-| **Qui** | Não | Remoto |
+| **Qui** | Não | 13:00 - 17:00 |
 | **Sex** | Não | Remoto |
 | | |
 | <div align="center"><img width="80" src="./_fotos/bol_NandoMatheusRocha.jpeg" /></div> | **Nando Matheus Rocha** | **Carga Horária: 20h** |
@@ -297,10 +264,10 @@
 | | |
 | <div align="center"><img width="80" src="./_fotos/bol_ThierryHenryZancanaroDaSilva.jpeg" /> </div> | **Thierry Henry Zancanaro da Silva** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 14:00 - 18:00|
+| **Seg** | Não | 17:15 - 18:15|
 | **Ter** | Não | 14:00 - 18:00 |
-| **Qua** | Não | 14:00 - 18:00 |
+| **Qua** | 9:00 - 12:00 | 14:00 - 18:00 |
 | **Qui** | Não | 14:00 - 18:00 |
-| **Sex** | 7:30 - 11:30 | 14:00 - 18:00 |
+| **Sex** | Não | 14:00 - 18:00 |
 | | |
 
