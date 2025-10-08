@@ -76,7 +76,7 @@ $ wakeonlan -i 192.168.1.255 -p 1234 01:02:03:04:05:06
 | Mateus Dassoler Spezia               |           | MC-5685  |
 | Ana Clara Lopes Hostins              |           | MC-5687  |
 | Gustavo Henrique Luiz                |           | MC-5688  |
-| Venâncio Domingos Cassua             |           | MC-5696  |
+| Dalton Solano dos Reis.              |           | MC-5696  |
 
 ## Laboratório R-129
 
