@@ -89,7 +89,7 @@
 | **Qui** | Não | 14:00 - 18:00 |
 | **Sex** | Não | 6:40 - 10:40 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.jpg" /> | **João Paulo de Lima** | **Carga Horária: 30h** |
+| <div align="center"><img width="80" src="./_fotos/bol_JoaoPaulodeLima.jpg" /> | **João Paulo de Lima** | **Carga Horária: 30h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | 7:30 - 13:30 | Não |
 | **Ter** | 7:30 - 13:30 | Não |
@@ -122,24 +122,8 @@
 
 ### 👩‍🎓 Bolsistas
 
-| <img width="80" src="./_fotos/bol_AyumiTakeharaLewandowski.png"/>  | **Ayumi Takehara Lewandowski** | **Carga Horária: 20h** |
-|--|---------------------------|-----|
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 13:30 - 17:30|
-| **Ter** | Não | 13:30 - 17:30 |
-| **Qua** | Não | 13:30 - 17:30 |
-| **Qui** | Não | 13:30 - 17:30 |
-| **Sex** | Não | 13:30 - 17:30 |
-| | |
-| <div align="center"><img width="80" src="./_fotos/bol_CarolineLucini.png" />  | **Caroline Lucini** | **Carga Horária: 20h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 12:30 - 16:30 |
-| **Ter** | Não | 12:30 - 16:30 |
-| **Qua** | Não | 12:30 - 16:30 |
-| **Qui** | Não | 12:30 - 16:30 |
-| **Sex** | Não | 12:30 - 16:30 |
-| | |
 | <div align="center"><img width="80" src="./_fotos/bol_FelipeSoares.jpg" />  | **Felipe Soares** | **Carga Horária: 40h** |
+|--|---------------------------|-----|
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 12:00 - 20:00 |
 | **Ter** | 7:30 - 11:30 | 12:00 - 17:00 |
