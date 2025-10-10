@@ -89,7 +89,7 @@
 | **Qui** | Não | 14:00 - 18:00 |
 | **Sex** | Não | 6:40 - 10:40 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.png" /> | **João Paulo de Lima** | **Carga Horária: 30h** |
+| <div align="center"><img width="80" src="./_fotos/bol_JoaoPauloDeLima.jpg" /> | **João Paulo de Lima** | **Carga Horária: 30h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | 7:30 - 13:30 | Não |
 | **Ter** | 7:30 - 13:30 | Não |
@@ -97,7 +97,7 @@
 | **Qui** | 7:30 - 13:30 | Não |
 | **Sex** | 7:30 - 13:30 | Não |
 | | |
-|  | **Mateus Dassoler Spezia** | **Carga Horária: 20h** |
+| <div align="center"><img width="80" src="./_fotos/bol_MateusDassolerSpezia.jpeg" /> | **Mateus Dassoler Spezia** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 13:15 - 17:15 |
 | **Ter** | Não | 13:15 - 17:15 |
@@ -139,7 +139,7 @@
 | **Qui** | Não | 12:30 - 16:30 |
 | **Sex** | Não | 12:30 - 16:30 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_FelipeSoares.png" />  | **Felipe Soares** | **Carga Horária: 40h** |
+| <div align="center"><img width="80" src="./_fotos/bol_FelipeSoares.jpg" />  | **Felipe Soares** | **Carga Horária: 40h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 12:00 - 20:00 |
 | **Ter** | 7:30 - 11:30 | 12:00 - 17:00 |
@@ -147,7 +147,7 @@
 | **Qui** | Não | 12:00 - 20:00 |
 | **Sex** | Não | 12:00 - 16:00 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_IsacMarleiVicenteCustodio.png" />  | **Isac Marlei Vicente Custódio** | **Carga Horária: 30h** |
+| <div align="center"><img width="80" src="./_fotos/bol_IsacMarleiVicenteCustodio.jpg" />  | **Isac Marlei Vicente Custódio** | **Carga Horária: 30h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 12:00 - 18:00 |
 | **Ter** | 7:30 - 11:30 | 12:00 - 18:00 |
@@ -187,7 +187,7 @@
 | **Qui** | Não | 12:00 - 17:00 |
 | **Sex** | Não | 12:00 - 17:00 |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_ViniciusEstrazulasMattos.png" /> | **Vinícius Estrázulas Mattos** | **Carga Horária: 20h** |
+| <div align="center"><img width="80" src="./_fotos/bol_ViniciusEstrazulasMattos.jpeg" /> | **Vinícius Estrázulas Mattos** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 14:00 - 18:00 |
 | **Ter** | Não | 14:00 - 18:00 |
