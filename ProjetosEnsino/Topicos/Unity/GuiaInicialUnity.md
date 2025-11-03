@@ -49,6 +49,45 @@ Acesse com sua conta Unity ID
 
 <i>Não precisa fazer o capítulo Publishing Essentials (Só se quiser)</i>
 
+# CRIANDO NOVOS PROJETOS BASEADO NAS TECNOLOGIAS UTILIZADAS
+
+Para fins de organização dos projetos, o LDTT foi dividido em 3 organizações dentro do github:
+	
+- <b>[LDTTprojetos (LDTT)](https://github.com/LDTTFURB)</b>: Aqui é onde vão ficar os repositórios dos projetos em andamento.
+	
+- <b>[LDTTtecnologias](https://github.com/LDTTtecnologias)</b>: Aqui ficarão os projetos base de acordo com cada tecnologia utilizada.
+	
+- <b>[LDTTloja](https://github.com/LDTTloja)</b>: Aqui é onde os projetos serão organizados para publicar nas lojas.
+
+## Como Criar um Novo Projeto
+
+![Fluxo de criação de projetos](https://www.plantuml.com/plantuml/svg/LP11Jkj038RtEOKFy9wwRpT555Oia6WFu2PkQvZO8tjI0Sfb40iajeWJv69acXIQLJIJp_w_-PUUq59JXo9n2WIteNbMg0YkZR7xwDvFXtlJHqhgi15EB_0VxbRhTL6q-HF7VpFdHBFpAK-HE8lEXg6sE2KLyuqttPknGkW-WSMJDNtEDpdioP1zCUvDL8e6tJDwUp55Nceu423y0R15fqKnlzeQWL5KvzHzPRgwn1PJuybQ8mpyYh1JUuA8Xd19zhjNj6CX4Atf7rIzXV5G3y7MKCe3H6CfEMBewTmUQ4yVTIAK5SwPROy55OGf0a5B33L96f_41g93YRyN9Gd20zOnPEZ6KrEXGPQAoO60SgsfCHnTBAlWC4R0mcM-gyX9ZXgEdEEod2UDnPAaQkhm0m00)
+
+1. **Crie um Fork do Repositório da Tecnologia desejada:**
+   - Clique no botão **Fork** no canto superior direito da página do repositório.
+   - Em **Owner**, selecione a organização **`LDTTprojetos`**.
+   - Dê um **nome** ao novo repositório.
+   - _(Opcional)_ Adicione uma **descrição** para o projeto.
+   - Marque a opção **"Copy the main branch only"**.
+
+2. **Finalize a Criação:**
+   - Clique no botão **"Create fork"**.
+
+
+Após abrir o projeto verifique a cena Sample de cada projeto para entender como funciona a estrutura de objetos e seus scripts de acordo com a tecnologia que você escolheu.
+
+Após entender como funciona a cena e sua estrutura básica, você pode começar a criar seu projeto, para isso crie uma cena nova e começe a trabalhar com o que aprendeu e for aprendendo.
+
+Para mais especificações sobre cada tecnologia acesse:
+
+- [Quest](https://github.com/LDTTtecnologias/Quest/blob/main/README.md)
+
+- [Google Cardboard](https://github.com/LDTTtecnologias/Cardboard/blob/main/README.md)
+
+- [Unity 2D](https://github.com/LDTTtecnologias/Unity_2D/blob/main/README.md)
+
+- [Vuforia](https://github.com/LDTTtecnologias/Vuforia/blob/main/README.md)
+
 # ACESSANDO E TRABALHANDO EM UM PROJETO
 
 Devido ao escopo dos projetos e à rotatividade de bolsistas, é muito provável que você irá em algum momento se deparar com algum projeto que já está foi/está sendo trabalhado por outros bolsistas. Por esse motivo, é importante que alguns padrões sejam seguidos, para facilitar o trabalho cooperativo com seus colegas. Tanto nos repositórios quanto dentro dos projetos, algumas normas são seguidas, e serão apresentadas neste capítulo.
