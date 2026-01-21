@@ -97,6 +97,14 @@
 | **Qui** | 7:30 - 13:30 | Não |
 | **Sex** | 7:30 - 13:30 | Não |
 | | |
+| <div align="center"><img width="80" src="./_fotos/bol_MateusDassolerSpezia.jpeg" /> | **Mateus Dassoler Spezia** | **Carga Horária: 20h** |
+| **Dia** | **Manhã** | **Tarde / Noite** |
+| **Seg** | Não | 13:15 - 17:15 |
+| **Ter** | Não | 13:15 - 17:15 |
+| **Qua** | Não | 13:15 - 17:15 |
+| **Qui** | Não | 13:15 - 17:15 |
+| **Sex** | Não | 13:15 - 17:15 |
+| | |
 
 ### 🧑‍🏫 Professor
 
@@ -154,14 +162,6 @@
 | **Qua** | Não | 14:00 - 18:00 |
 | **Qui** | Não | 14:00 - 18:00 |
 | **Sex** | Não | Não |
-| | |
-| <div align="center"><img width="80" src="./_fotos/bol_MatheusOhrtPerazzoLeiteGalvao.jpeg" /> | **Matheus Ohrt Perazzo Leite Galvão** | **Carga Horária: 20h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 12:00 - 17:00 |
-| **Ter** | Não | 12:00 - 17:00 |
-| **Qua** | Não | Não |
-| **Qui** | Não | 12:00 - 17:00 |
-| **Sex** | Não | 12:00 - 17:00 |
 | | |
 | <div align="center"><img width="80" src="./_fotos/bol_ViniciusEstrazulasMattos.jpeg" /> | **Vinícius Estrázulas Mattos** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
