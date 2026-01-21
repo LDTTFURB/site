@@ -97,14 +97,6 @@
 | **Qui** | 7:30 - 13:30 | Não |
 | **Sex** | 7:30 - 13:30 | Não |
 | | |
-| <div align="center"><img width="80" src="./_fotos/bol_MateusDassolerSpezia.jpeg" /> | **Mateus Dassoler Spezia** | **Carga Horária: 20h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 13:15 - 17:15 |
-| **Ter** | Não | 13:15 - 17:15 |
-| **Qua** | Não | 13:15 - 17:15 |
-| **Qui** | Não | 13:15 - 17:15 |
-| **Sex** | Não | 13:15 - 17:15 |
-| | |
 
 ### 🧑‍🏫 Professor
 
