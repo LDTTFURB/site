@@ -24,16 +24,8 @@
 
 ### 👩‍🎓 Bolsistas
 
-| <div align="center"><img width="80" src="./_fotos/bol_AnaClaraLopesHostins.png" /></div> | **Ana Clara Lopes Hostins** | **Carga Horária: 30h** |
-|--|---------------------------|-----|
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 12:00 - 19:00 |
-| **Ter** | 09:00 - 11:00 | 12:30 - 18:00 |
-| **Qua** | Não | 12:00 - 19:00 |
-| **Qui** | Não | 12:00 - 19:00 |
-| **Sex** | Não | Não |
-| | |
 | <div align="center"><img width="80" src="./_fotos/bol_GustavoHenriqueLuiz.png" /> | **Gustavo Henrique Luiz** | **Carga Horária: 20h** |
+|--|---------------------------|-----|
 | **Dia** | **Manhã** | **Tarde / Noite** |
 | **Seg** | Não | 12:00 - 17:00 |
 | **Ter** | 7:30 - 12:30 | Não |
@@ -130,14 +122,6 @@
 | **Qua** | Não | 12:00 - 20:00 |
 | **Qui** | Não | 12:00 - 20:00 |
 | **Sex** | Não | 12:00 - 16:00 |
-| | |
-| <div align="center"><img width="80" src="./_fotos/bol_IsacMarleiVicenteCustodio.jpg" />  | **Isac Marlei Vicente Custódio** | **Carga Horária: 30h** |
-| **Dia** | **Manhã** | **Tarde / Noite** |
-| **Seg** | Não | 12:00 - 18:00 |
-| **Ter** | 7:30 - 11:30 | 12:00 - 18:00 |
-| **Qua** | Não | 12:00 - 18:00 |
-| **Qui** | Não | 12:00 - 18:00 |
-| **Sex** | Não | Não |
 | | |
 | <div align="center"><img width="80" src="./_fotos/bol_LeonardoLinharesSilva.jpeg" />  | **Leonardo Linhares Silva** | **Carga Horária: 20h** |
 | **Dia** | **Manhã** | **Tarde / Noite** |
