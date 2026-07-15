@@ -42,6 +42,9 @@ Estudando Versionador de Códigos (CVS/SVN/GIT).
 
   [https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/ "cheat-sheet")
 
+- Guia Resumido
+  [GitCompleteNotes.pdf](_._/GitCompleteNotes.pdf)
+
 ----
 
 ## Versionador de Códigos - GitHub
